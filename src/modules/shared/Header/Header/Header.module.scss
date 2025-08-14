@@ -1,0 +1,321 @@
+@import '../../../../styles/main';
+
+.header {
+  box-shadow: 0 1px 1px 0 $borderColor;
+  font-family: Mont, sans-serif;
+  flex-direction: row;
+
+  &_container {
+    padding-left: 16px;
+
+    @include on-tablet {
+      padding-right: 0;
+      padding-left: 24px;
+    }
+
+    @include on-desktop {
+      padding-left: 32px;
+    }
+  }
+
+  &_block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 48px;
+
+    @include on-tablet {
+      justify-content: normal;
+    }
+
+    @include on-desktop {
+      height: 64px;
+    }
+  }
+
+  &_logo {
+    height: 22px;
+    width: 64px;
+    user-select: none;
+
+    @include on-tablet {
+      margin-right: 32px;
+    }
+
+    @include on-desktop {
+      height: 28px;
+      width: 80px;
+      margin-right: 48px;
+    }
+  }
+
+  &_list {
+    @include on-tablet {
+      display: flex;
+      gap: 32px;
+    }
+
+    @include on-desktop {
+      gap: 64px;
+    }
+  }
+
+  &_link {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    border-bottom: 3px solid $borderBottomColor;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Mont-Bold, sans-serif;
+    font-size: 12px;
+    line-height: 11px;
+    letter-spacing: 0.04em;
+    color: $textSecondaryColor;
+  }
+
+  &_nav {
+    display: none;
+
+    @include on-desktop {
+      display: flex;
+      height: 100%;
+      width: 100%;
+    }
+  }
+
+  &_favourites {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 48px;
+    min-width: 48px;
+    margin-left: auto;
+    border-left: 1px solid $borderColor;
+
+    @include on-desktop {
+      max-height: 64px;
+      min-width: 64px;
+    }
+  }
+
+  &_heartIcon {
+    position: relative;
+    display: block;
+    height: 16px;
+    width: 16px;
+    background-size: cover;
+    background-image: $backgroundImageFavourites;
+    transition:
+      background-image 0.5s ease,
+      transform 0.5s ease;
+  }
+
+  &_cart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 48px;
+    min-width: 48px;
+    border-left: 1px solid $borderColor;
+    border-right: 1px solid $borderColor;
+
+    @include on-desktop {
+      max-height: 64px;
+      min-width: 64px;
+    }
+  }
+
+  &_cartIcon {
+    position: relative;
+    display: block;
+    width: 16px;
+    height: 16px;
+    background-size: cover;
+    background-image: $cartIconImage;
+    transition:
+      background-image 0.5s ease,
+      transform 0.5s ease;
+  }
+
+  &_countIcon {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 14px;
+    min-width: 14px;
+    border-radius: 50%;
+    background-size: cover;
+    background-color: $favouritesIconColor;
+    font-size: 9px;
+    line-height: 11.5px;
+    color: #fff;
+  }
+
+  &_icon {
+    display: block;
+    height: 16px;
+    width: 16px;
+    background-size: cover;
+
+    &_open {
+      background-image: $iconMenu;
+    }
+
+    &_close {
+      background-image: $iconClose;
+    }
+  }
+
+  &_modalMenu {
+    align-content: center;
+    height: 48px;
+    padding-left: 16px;
+    box-shadow: -1px 1px 1px 0 $borderColor;
+border-right: 1px solid $borderColor;
+cursor: pointer;
+width: 48px;
+
+    @include on-desktop {
+      display: none;
+    }
+  }
+}
+
+.header_favourites:hover .header_heartIcon,
+.header_cart:hover .header_cartIcon {
+  transform: scale(1.2);
+}
+
+.is_active {
+  border-bottom: 3px solid $textMainColor;
+  color: $textMainColor;
+}
+
+.header_favourites,
+.header_cart {
+  position: relative;
+
+  &:hover {
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -3px;
+      left: 0;
+      height: 3px;
+      width: 100%;
+      background-color: $textMainColor;
+    }
+  }
+}
+
+/* Контейнер для поиска */
+.searchContainer {
+  position: absolute;
+  display: flex;
+  right: 256px;
+
+    @media (min-width: 320px) and (max-width: 1199.5px){
+      right: 144px;
+     }
+
+
+  input[type="search"] {
+    padding: 8px 12px;
+    border: none;
+    outline: none;
+    font-size: 12px;
+    font-family: Mont-bolt, sans-serif;
+      color: $textMainColor;
+      background-color: $backgroundColor;
+ font-weight: 600;
+    line-height: 11px;
+    letter-spacing: 0.04em;
+    width: 250px;
+    height: 64px;
+    border-left: 1px solid $borderColor;
+      &::-webkit-search-cancel-button {
+      -webkit-appearance: none;
+      height: 14px;
+      width: 14px;
+      background: $iconClose no-repeat center;
+      background-size: contain;
+      cursor: pointer;
+    }
+
+    &::-ms-clear {
+      display: none;
+      width: 0;
+      height: 0;
+    }
+
+    &::placeholder{
+      color: $textMainColor;
+       font-size: 12px;
+    font-family: Mont-bolt, sans-serif;
+    font-weight: 600;
+    }
+
+     @media (min-width: 640px) and (max-width: 1199.5px){
+     width: 200px;
+     height: 48px;
+     }
+
+
+    @media (min-width: 320px) and (max-width: 639.5px) {
+    max-width: clamp(90px, 25vw, 200px);
+    height: 48px;
+
+
+  }
+
+  }
+}
+
+/* Выпадающий список подсказок */
+.suggestionsDropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background-color: var(--background-color);
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 1000;
+  color: $textMainColor;
+  font-size: 12px;
+    font-family: Mont-bolt, sans-serif;
+    font-weight: 600;
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+
+  &.show {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  li {
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+
+    &:hover {
+      background-color: $hoverBackground;
+    }
+  }
+}
+
+/* Если нужно, можно подсветить совпадение текста */
+.suggestionItem {
+  span.match {
+    font-weight: 600;
+    color: #007bff;
+  }
+}
+

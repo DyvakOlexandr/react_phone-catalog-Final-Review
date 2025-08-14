@@ -1,0 +1,174 @@
+@import '../../../styles/main';
+
+.slaider {
+  position: relative;
+  margin-top: 24px;
+  margin-bottom: 88px;
+
+
+  @include on-tablet {
+    margin-top: 32px;
+    padding-block: 24px;
+    font-size: 12px;
+  }
+
+  @include on-desktop {
+    margin-top: 56px;
+    padding-block: 32px;
+    font-size: 18px;
+  }
+
+  &_title {
+    margin-bottom: 24px;
+    padding-inline: 16px;
+    font-family: Mont-Bold, sans-serif;
+    font-size: 32px;
+    line-height: 41px;
+    text-align: left;
+
+    @include on-tablet {
+      padding-inline: 0;
+      font-size: 48px;
+      line-height: 56px;
+    }
+  }
+
+  &_banner {
+    display: block;
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+
+    @include on-tablet {
+      max-width: calc(100% - 50px);
+      margin: 0 auto;
+    }
+
+    @include on-desktop {
+      height: 400px;
+    }
+  }
+
+  &_button {
+    position: fixed;
+    display: none;
+    border: 1px solid #404040;
+    border-radius: 28px;
+    font-family: Mont, sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all $animation;
+    text-align: center;
+
+    @include on-tablet {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 40px;
+      width: 150px;
+      left: 90px;
+      bottom: 50px;
+      font-size: 12px;
+      background-color: #222;
+    }
+
+    @include on-desktop {
+      height: 60px;
+      font-size: 16px;
+    }
+
+    &:hover {
+      background-color: $buttonAddColor;
+    }
+  }
+}
+
+.button_prev {
+  position: fixed;
+  left: -16px;
+  z-index: 1001;
+  display: none;
+  height: 100%;
+  width: 32px;
+  border: 1px solid $borderColorDark;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: $buttonPrevBanner;
+  background-image: $buttonPrevBannerImage;
+  cursor: pointer;
+
+  @include on-tablet {
+    display: block;
+  }
+}
+
+.button_next {
+  position: fixed;
+  right: -16px;
+  z-index: 1001;
+  display: none;
+  height: 100%;
+  width: 32px;
+  border: 1px solid $borderColorDark;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: $buttonNextBanner;
+  background-image: $buttonNextBannerImage;
+  cursor: pointer;
+
+  @include on-tablet {
+    display: block;
+  }
+}
+ /* stylelint-disable selector-pseudo-class-no-unknown */
+ .slaider_pagination {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 18px;
+  z-index: 10;
+  gap: 14px;
+
+  @media (min-width: 320px) and (max-width: 639.5px){
+    padding-top: 50px;
+  }
+
+:global(.swiper-pagination-bullet) {
+  background-color: $borderColorDark;
+  opacity: 0.6;
+  width: 14px;
+  height: 4px;
+  border-radius: 0;
+}
+
+:global(.swiper-pagination-bullet-active) {
+  background-color: $textMainColor;
+  width: 14px;
+  height: 4px;
+  opacity: 1;
+ }
+}
+
+.slaider_skeleton {
+  width: 100%;
+  height: 400px; // или по высоте твоего баннера
+  background: linear-gradient(
+    90deg,
+    #e0e0e0 25%,
+    #f0f0f0 50%,
+    #e0e0e0 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 8px;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}

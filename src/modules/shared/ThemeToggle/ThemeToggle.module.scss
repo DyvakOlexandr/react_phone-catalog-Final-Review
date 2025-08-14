@@ -1,0 +1,73 @@
+@import '../../../styles/main';
+
+.themeToggle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 48px;
+  height: 100%;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  border-right: 1px solid $borderColor;
+  border-left: 1px solid $borderColor;
+  transition: all $animation;
+
+
+  @include on-desktop {
+    min-width: 64px;
+    max-height: 64px;
+  }
+
+  @media (min-width: 320px) and (max-width: 1199.5px) {
+    display: flex;
+    min-width: 48px;
+    margin-left: auto;
+     border-left: 1px solid $borderColor;
+
+  }
+
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+
+    [data-theme='dark'] & {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+  }
+
+  &__icon {
+    font-size: 18px;
+    transition: transform $animation;
+
+    @include on-desktop {
+      font-size: 20px;
+    }
+  }
+
+  &:hover &__icon {
+    transform: scale(1.1);
+  }
+}
+
+.themeToggle_skeleton {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: linear-gradient(
+    90deg,
+    #e0e0e0 25%,
+    #f0f0f0 50%,
+    #e0e0e0 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.2s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}

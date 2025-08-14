@@ -1,0 +1,44 @@
+@import '../../../styles/main';
+
+.languageSwitcher{
+ font-family: Mont-Bold, sans-serif;
+  color: $textMainColor;
+ font-size: 12px;
+    line-height: 11px;
+    letter-spacing: 0.04em;
+  min-width: 48px;
+  height: 100%;
+  background-color: $backgroundColor;
+  border: none;
+  border-right: 1px solid $borderColor;
+  cursor: pointer;
+  text-align: center;
+  transition: transform 0.3s ease-in-out;
+   &:hover{
+    transform: scale(1.1);
+  }
+
+
+   @include on-desktop {
+    min-width: 64px;
+    max-height: 64px;
+  }
+
+  @media (min-width: 320px) and (max-width: 639.5px) {
+    min-width: 48px;
+     border-right: 1px solid $borderColor;
+
+  }
+}
+
+.enBackground {
+  background-size: cover;
+  background-position: center;
+  background-image: url(../../../assets/img/gb_flag.jpg);
+}
+
+.uaBackground {
+background-size: cover;
+
+  background-image: url(../../../assets/img/ua_flag.png);
+}

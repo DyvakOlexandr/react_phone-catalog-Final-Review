@@ -1,0 +1,581 @@
+{
+  "home": "Головна",
+  "Phones": "Телефони",
+  "Tablets": "Планшети",
+  "Accessories": "Аксесуари",
+  "no_products_matching_query_with_category": "Немає товарів, що відповідають запитові з категорією",
+  "search_placeholder": "Пошук товарів",
+  "banner": {
+    "title": "Ласкаво просимо до магазину гарних гаджетів!",
+    "orderNow": "Замовляйте зараз"
+},
+  "models": "моделі",
+  "ShopCategories": "Купуйте за категоріями",
+  "new_title": "Нові моделі",
+  "screen_phone": "Екран",
+  "capacity_phone": "Ємність",
+  "added": "Додано",
+  "add_to_cart": "Додати до кошика",
+  "ram": "Оперативна пам'ять",
+  "backtop": "Назад до початку",
+  "rights": "права",
+  "contacts": "Контакти",
+    "phones1":  "Телефони",
+  "tablets1": "Планшети",
+  "accessories1": "Аксесуари",
+  "back": "Назад",
+  "checkout": "Оформити замовлення",
+  "cart": "Кошик",
+  "favourites": "Улюблені",
+    "categories": {
+    "phones": "Телефони",
+    "tablets": "Планшети",
+    "accessories": "Аксесуари"
+  },
+  "sortby": "Сортувати за",
+    "sortTypes": {
+    "Newest":  "Нові",
+    "Alphabetically":  "За алфавітом",
+    "Cheapest":  "Найцінніші"
+  },
+  "newest": "Нові",
+  "alphabetically": "За алфавітом",
+  "cheapest": "Найцінніші",
+    "pagination": {
+    "all": "Усі"
+  },
+  "techspecs": "Технічні характеристики",
+  "screen": "Екран",
+  "resolution": "Резолюція",
+  "processor": "Процесор",
+  "builtinmemory": "Вбудована пам'ять",
+  "camera": "Камера",
+  "itemsonpage": "Елементи на сторінці",
+  "pagenotfound": "Сторінка не знайдена",
+  "avilablecolors": "Доступні кольори",
+  "selectcapacity": "Оберіть ємність",
+   "favouritesCount_one": "{{count}} улюблений",
+   "zoom": "Збільшення",
+   "cell": "Мобільний зв'язок",
+   "maylike": "Також можете подобати",
+   "search": "Пошук...",
+  "favouritesCount_few": "{{count}} улюблені",
+  "favouritesCount_many": "{{count}} улюблених",
+    "totalForItems_one": "Разом за {{count}} товар",
+  "totalForItems_few": "Разом за {{count}} товари",
+  "totalForItems_many": "Разом за {{count}} товарів",
+    "apple-iphone-7-32gb-black": "Apple iPhone 7 32GB Чорний",
+  "apple-iphone-7-plus-32gb-black": "Apple iPhone 7 Plus 32GB Чорний",
+  "apple-iphone-8-64gb-gold": "Apple iPhone 8 64GB Золотий",
+  "apple-iphone-11-64gb-black": "Apple iPhone 11 64GB Чорний",
+  "apple-iphone-11-128gb-yellow": "Apple iPhone 11 128GB Жовтий",
+  "apple-iphone-11-256gb-green": "Apple iPhone 11 256GB Зелений",
+  "apple-iphone-11-pro-64gb-gold": "Apple iPhone 11 Pro 64GB Золотий",
+  "apple-iphone-11-pro-256gb-midnightgreen": "Apple iPhone 11 Pro 256GB Темно-зелений",
+  "apple-iphone-11-pro-512gb-silver": "Apple iPhone 11 Pro 512GB Сріблястий",
+  "apple-iphone-11-pro-max-64gb-spacegray": "Apple iPhone 11 Pro Max 64GB Космічний сірий",
+  "apple-iphone-11-pro-max-256gb-gold": "Apple iPhone 11 Pro Max 256GB Золотий",
+  "apple-iphone-11-pro-max-512gb-spacegray": "Apple iPhone 11 Pro Max 512GB Космічний сірий",
+  "apple-iphone-xr-64gb-red": "Apple iPhone XR 64GB Червоний",
+  "apple-iphone-xr-128gb-white": "Apple iPhone XR 128GB Білий",
+  "apple-iphone-xs-64gb-spacegray": "Apple iPhone XS 64GB Космічний сірий",
+  "apple-iphone-xs-max-64gb-gold": "Apple iPhone XS Max 64GB Золотий",
+  "apple-iphone-xs-max-256gb-silver": "Apple iPhone XS Max 256GB Сріблястий",
+  "apple-iphone-7-32gb-gold": "Apple iPhone 7 32GB Золотий",
+  "apple-iphone-7-plus-32gb-silver": "Apple iPhone 7 Plus 32GB Сріблястий",
+  "apple-iphone-8-64gb-spacegray": "Apple iPhone 8 64GB Космічний сірий",
+  "apple-iphone-11-64gb-green": "Apple iPhone 11 64GB Зелений",
+  "apple-iphone-11-128gb-purple": "Apple iPhone 11 128GB Фіолетовий",
+  "apple-iphone-11-256gb-yellow": "Apple iPhone 11 256GB Жовтий",
+  "apple-iphone-11-pro-256gb-gold": "Apple iPhone 11 Pro 256GB Золотий",
+  "apple-iphone-11-pro-512gb-spacegray": "Apple iPhone 11 Pro 512GB Космічний сірий",
+  "apple-iphone-11-pro-max-64gb-silver": "Apple iPhone 11 Pro Max 64GB Сріблястий",
+  "apple-iphone-11-pro-max-256gb-midnightgreen": "Apple iPhone 11 Pro Max 256GB Темно-зелений",
+  "apple-iphone-11-pro-max-512gb-silver": "Apple iPhone 11 Pro Max 512GB Сріблястий",
+  "apple-iphone-xr-64gb-white": "Apple iPhone XR 64GB Білий",
+  "apple-iphone-xr-128gb-coral": "Apple iPhone XR 128GB Кораловий",
+  "apple-iphone-xs-64gb-gold": "Apple iPhone XS 64GB Золотий",
+  "apple-iphone-xs-256gb-spacegray": "Apple iPhone XS 256GB Космічний сірий",
+  "apple-iphone-xs-max-64gb-silver": "Apple iPhone XS Max 64GB Сріблястий",
+  "apple-iphone-xs-max-256gb-gold": "Apple iPhone XS Max 256GB Золотий",
+  "apple-iphone-7-32gb-rosegold": "Apple iPhone 7 32GB Рожеве золото",
+  "apple-iphone-11-64gb-purple": "Apple iPhone 11 64GB Фіолетовий",
+  "apple-iphone-11-64gb-red": "Apple iPhone 11 64GB Червоний",
+  "apple-iphone-11-128gb-black": "Apple iPhone 11 128GB Чорний",
+  "apple-iphone-11-256gb-red": "Apple iPhone 11 256GB Червоний",
+  "apple-iphone-11-pro-64gb-midnightgreen": "Apple iPhone 11 Pro 64GB Темно-зелений",
+  "apple-iphone-11-pro-256gb-silver": "Apple iPhone 11 Pro 256GB Сріблястий",
+  "apple-iphone-11-pro-512gb-gold": "Apple iPhone 11 Pro 512GB Золотий",
+  "apple-iphone-11-pro-max-64gb-midnightgreen": "Apple iPhone 11 Pro Max 64GB Темно-зелений",
+  "apple-iphone-11-pro-max-256gb-spacegray": "Apple iPhone 11 Pro Max 256GB Космічний сірий",
+  "apple-iphone-xr-64gb-coral": "Apple iPhone XR 64GB Кораловий",
+  "apple-iphone-xr-128gb-red": "Apple iPhone XR 128GB Червоний",
+  "apple-iphone-xs-256gb-gold": "Apple iPhone XS 256GB Золотий",
+  "apple-iphone-xs-max-64gb-spacegray": "Apple iPhone XS Max 64GB Космічний сірий",
+  "apple-iphone-7-plus-32gb-rosegold": "Apple iPhone 7 Plus 32GB Рожеве золото",
+  "apple-iphone-11-64gb-white": "Apple iPhone 11 64GB Білий",
+  "apple-iphone-11-128gb-green": "Apple iPhone 11 128GB Зелений",
+  "apple-iphone-11-128gb-white": "Apple iPhone 11 128GB Білий",
+  "apple-iphone-11-256gb-black": "Apple iPhone 11 256GB Чорний",
+  "apple-iphone-11-256gb-white": "Apple iPhone 11 256GB Білий",
+  "apple-iphone-11-pro-64gb-spacegray": "Apple iPhone 11 Pro 64GB Космічний сірий",
+  "apple-iphone-11-pro-512gb-midnightgreen": "Apple iPhone 11 Pro 512GB Темно-зелений",
+  "apple-iphone-11-pro-max-64gb-gold": "Apple iPhone 11 Pro Max 64GB Золотий",
+  "apple-iphone-11-pro-max-256gb-silver": "Apple iPhone 11 Pro Max 256GB Сріблястий",
+  "apple-iphone-11-pro-max-512gb-midnightgreen": "Apple iPhone 11 Pro Max 512GB Темно-зелений",
+  "apple-iphone-xr-128gb-yellow": "Apple iPhone XR 128GB Жовтий",
+  "apple-iphone-7-32gb-silver": "Apple iPhone 7 32GB Сріблястий",
+  "apple-iphone-11-256gb-purple": "Apple iPhone 11 256GB Фіолетовий",
+  "apple-iphone-11-pro-max-512gb-gold": "Apple iPhone 11 Pro Max 512GB Золотий",
+  "apple-iphone-11-64gb-yellow": "Apple iPhone 11 64GB Жовтий",
+  "apple-iphone-11-pro-256gb-spacegray": "Apple iPhone 11 Pro 256GB Космічний сірий",
+  "apple-iphone-8-64gb-silver": "Apple iPhone 8 64GB Сріблястий",
+  "apple-iphone-11-128gb-red": "Apple iPhone 11 128GB Червоний",
+  "apple-iphone-xs-max-256gb-spacegray": "Apple iPhone XS Max 256GB Космічний сірий",
+  "apple-iphone-7-plus-32gb-gold": "Apple iPhone 7 Plus 32GB Золотий",
+  "apple-iphone-11-pro-64gb-silver": "Apple iPhone 11 Pro 64GB Сріблястий",
+  "apple-iphone-xr-64gb-yellow": "Apple iPhone XR 64GB Жовтий",
+  "apple-iphone-14-128gb-midnight": "Apple iPhone 14 128GB Опівніч",
+  "apple-iphone-14-256gb-midnight": "Apple iPhone 14 256GB Опівніч",
+  "apple-iphone-14-512gb-midnight": "Apple iPhone 14 512GB Опівніч",
+  "apple-iphone-14-128gb-yellow": "Apple iPhone 14 128GB Жовтий",
+  "apple-iphone-14-256gb-yellow": "Apple iPhone 14 256GB Жовтий",
+  "apple-iphone-14-512gb-yellow": "Apple iPhone 14 512GB Жовтий",
+  "apple-iphone-14-128gb-purple": "Apple iPhone 14 128GB Фіолетовий",
+  "apple-iphone-14-256gb-purple": "Apple iPhone 14 256GB Фіолетовий",
+  "apple-iphone-14-512gb-purple": "Apple iPhone 14 512GB Фіолетовий",
+  "apple-iphone-14-pro-128gb-spaceblack": "Apple iPhone 14 Pro 128GB Космічний чорний",
+  "apple-iphone-14-pro-256gb-spaceblack": "Apple iPhone 14 Pro 256GB Космічний чорний",
+  "apple-iphone-14-pro-512gb-spaceblack": "Apple iPhone 14 Pro 512GB Космічий чорний",
+  "apple-iphone-14-pro-1tb-spaceblack": "Apple iPhone 14 Pro 1TB Космічний чорний",
+  "apple-iphone-12-64gb-purple" : "Apple iPhone 12 64GB Фіолетовий",
+  "apple-iphone-12-128gb-purple": "Apple iPhone 12 128GB Фіолетовий",
+  "apple-iphone-12-256gb-purple": "Apple iPhone 12 256GB Фіолетовий",
+  "apple-iphone-12-64gb-white": "Apple iPhone 12 64GB Білий",
+  "apple-iphone-12-128gb-white": "Apple iPhone 12 128GB Білий",
+  "apple-iphone-12-256gb-white": "Apple iPhone 12 256GB Білий",
+  "apple-iphone-12-64gb-red": "Apple iPhone 12 64GB Червоний",
+  "apple-iphone-12-128gb-red": "Apple iPhone 12 128GB Червоний",
+  "apple-iphone-12-256gb-red": "Apple iPhone 12 256GB Червоний",
+  "apple-iphone-12-64gb-black": "Apple iPhone 12 64GB Чорний",
+  "apple-iphone-12-128gb-black": "Apple iPhone 12 128GB Чорний",
+  "apple-iphone-12-256gb-black": "Apple iPhone 12 256GB Чорний",
+  "apple-iphone-13-mini-64gb-blue": "Apple iPhone 13 Mini 64GB Блакитний",
+  "apple-iphone-13-mini-128gb-blue": "Apple iPhone 13 Mini 128GB Блакитний",
+  "apple-iphone-13-mini-256gb-blue": "Apple iPhone 13 Mini 256GB Блакитний",
+  "apple-iphone-13-mini-64gb-white": "Apple iPhone 13 Mini 64GB Білий",
+  "apple-iphone-13-mini-128gb-white": "Apple iPhone 13 Mini 128GB Білий",
+  "apple-iphone-13-mini-256gb-white": "Apple iPhone 13 Mini 256GB Білий",
+  "apple-iphone-13-mini-64gb-pink"  : "Apple iPhone 13 Mini 64GB Рожевий",
+  "apple-iphone-13-mini-128gb-pink": "Apple iPhone 13 Mini 128GB Рожевий",
+  "apple-iphone-13-mini-256gb-pink": "Apple iPhone 13 Mini 256GB Рожевий",
+  "apple-iphone-13-mini-64gb-midnight": "Apple iPhone 13 Mini 64GB Опівніч",
+  "apple-iphone-13-mini-128gb-midnight": "Apple iPhone 13 Mini 128GB Опівніч",
+  "apple-iphone-13-mini-256gb-midnight": "Apple iPhone 13 Mini 256GB Опівніч",
+  "apple-iphone-13-pro-max-128gb-sierrablue": "Apple iPhone 13 Pro Max 128GB Сієрра Блю",
+  "apple-iphone-13-pro-max-256gb-sierrablue": "Apple iPhone 13 Pro Max 256GB Сієрра Блю",
+  "apple-iphone-13-pro-max-1tb-sierrablue": "Apple iPhone 13 Pro Max 1TB Сієрра Блю",
+  "apple-iphone-13-pro-max-128gb-gold": "Apple iPhone 13 Pro Max 128GB Золотий",
+  "apple-iphone-13-pro-max-256gb-gold": "Apple iPhone 13 Pro Max 256GB Золотий",
+  "apple-iphone-13-pro-max-512gb-gold": "Apple iPhone 13 Pro Max 512GB Золотий",
+  "apple-iphone-13-pro-max-1tb-gold": "Apple iPhone 13 Pro Max 1TB Золотий",
+  "apple-iphone-13-pro-max-128gb-graphite": "Apple iPhone 13 Pro Max 128GB Графітовий",
+  "apple-iphone-13-pro-max-256gb-graphite": "Apple iPhone 13 Pro Max 256GB Графітовий",
+  "apple-iphone-13-pro-max-512gb-graphite": "Apple iPhone 13 Pro Max 512GB Графітовий",
+  "apple-iphone-13-pro-max-1tb-graphite": "Apple iPhone 13 Pro Max 1TB Графітовий",
+  "apple-iphone-14-pro-128gb-gold": "Apple iPhone 14 Pro 128GB Золотий",
+  "apple-iphone-14-pro-256gb-gold": "Apple iPhone 14 Pro 256GB Золотий",
+  "apple-iphone-14-pro-512gb-gold": "Apple iPhone 14 Pro 512GB Золотий",
+  "apple-iphone-14-pro-1tb-gold": "Apple iPhone 14 Pro 1TB Золотий",
+  "apple-watch-series-3-38mm-spacegray": "Apple Watch Series 3 38mm Космічний сірий",
+  "apple-watch-series-3-42mm-spacegray": "Apple Watch Series 3 42mm Космічний сірий",
+  "apple-watch-series-3-38mm-gold": "Apple Watch Series 3 38mm Золотий",
+  "apple-watch-series-3-42mm-gold": "Apple Watch Series 3 42mm Золотий",
+  "apple-watch-series-3-38mm-silver": "Apple Watch Series 3 38mm Сріблястий",
+  "apple-watch-series-3-42mm-silver": "Apple Watch Series 3 42mm Сріблястий",
+  "apple-watch-series-6-40mm-spacegray": "Apple Watch Series 6 40mm Космічний сірий",
+  "apple-watch-series-6-44mm-spacegray": "Apple Watch Series 6 44mm Космічний сірий",
+   "apple-watch-series-6-40mm-silver": "Apple Watch Series 6 40mm Сріблястий",
+   "apple-watch-series-6-44mm-silver": "Apple Watch Series 6 44mm Сріблястий",
+   "apple-watch-series-6-40mm-gold": "Apple Watch Series 6 40mm Золотий",
+   "apple-watch-series-6-44mm-gold": "Apple Watch Series 6 44mm Золотий",
+   "apple-watch-series-6-40mm-blue": "Apple Watch Series 6 40mm Синій",
+   "apple-watch-series-6-44mm-blue": "Apple Watch Series 6 44mm Синій",
+   "apple-watch-series-6-40mm-red": "Apple Watch Series 6 40mm Червоний",
+   "apple-watch-series-6-44mm-red": "Apple Watch Series 6 44mm Червоний",
+   "apple-watch-series-5-40mm-silver": "Apple Watch Series 5 40mm Сріблястий",
+   "apple-watch-series-5-44mm-silver": "Apple Watch Series 5 44mm Сріблястий",
+   "apple-watch-series-5-40mm-gold": "Apple Watch Series 5 40mm Золотий",
+   "apple-watch-series-5-44mm-gold": "Apple Watch Series 5 44mm Золотий",
+   "apple-watch-series-5-40mm-spacegray": "Apple Watch Series 5 40mm Космічний сірий",
+   "apple-watch-series-5-44mm-spacegray": "Apple Watch Series 5 44mm Космічний сірий",
+   "apple-watch-series-4-40mm-silver": "Apple Watch Series 4 40mm Сріблястий",
+   "apple-watch-series-4-44mm-silver": "Apple Watch Series 4 44mm Сріблястий",
+   "apple-watch-series-4-40mm-gold": "Apple Watch Series 4 40mm Золотий",
+   "apple-watch-series-4-44mm-gold": "Apple Watch Series 4 44mm Золотий",
+   "apple-watch-series-4-40mm-spacegray": "Apple Watch Series 4 40mm Космічний сірий",
+   "apple-watch-series-4-44mm-spacegray": "Apple Watch Series 4 44mm Космічний сірий",
+   "apple-watch-se-40mm-silver": "Apple Watch SE 40mm Сріблястий",
+   "apple-watch-se-44mm-silver": "Apple Watch SE 44mm Сріблястий",
+   "apple-watch-se-40mm-gold": "Apple Watch SE 40mm Золотий",
+   "apple-watch-se-44mm-gold": "Apple Watch SE 44mm Золотий",
+   "apple-watch-se-40mm-spacegray": "Apple Watch SE 40mm Космічний сірий",
+   "apple-watch-se-44mm-spacegray": "Apple Watch SE 44mm Космічний сірий",
+  "apple-ipad-pro-11-2021-128gb-spacegray" : "Apple iPad Pro 11 (2021) 128GB Космічний сірий",
+  "apple-ipad-pro-11-2021-128gb-silver": "Apple iPad Pro 11 (2021) 128GB Сріблястий",
+  "apple-ipad-pro-11-2021-256gb-spacegray": "Apple iPad Pro 11 (2021) 256GB Космічний сірий",
+  "apple-ipad-pro-11-2021-256gb-silver": "Apple iPad Pro 11 (2021) 256GB Сріблястий",
+  "apple-ipad-pro-11-2021-512gb-spacegray": "Apple iPad Pro 11 (2021) 512GB Космічний сірий",
+  "apple-ipad-pro-11-2021-512gb-silver": "Apple iPad Pro 11 (2021) 512GB Сріблястий",
+  "apple-ipad-pro-11-2021-1tb-spacegray": "Apple iPad Pro 11 (2021) 1TB Космічний сірий",
+  "apple-ipad-pro-11-2021-1tb-silver": "Apple iPad Pro 11 (2021) 1TB Сріблястий",
+  "apple-ipad-pro-11-2021-2tb-spacegray": "Apple iPad Pro 11 (2021) 2TB Космічний сірий",
+  "apple-ipad-pro-11-2021-2tb-silver": "Apple iPad Pro 11 (2021) 2TB Сріблястий",
+  "apple-ipad-air-4th-gen-256gb-rosegold": "Apple iPad Air (4th Gen) 256GB Рожеве золото",
+  "apple-ipad-air-4th-gen-64gb-rosegold": "Apple iPad Air (4th Gen) 64GB Рожеве золото",
+  "apple-ipad-air-4th-gen-256gb-silver": "Apple iPad Air (4th Gen) 256GB Сріблястий",
+  "apple-ipad-air-4th-gen-64gb-silver": "Apple iPad Air (4th Gen) 64GB Сріблястий",
+  "apple-ipad-air-4th-gen-256gb-green": "Apple iPad Air (4th Gen) 256GB Зелений",
+  "apple-ipad-air-4th-gen-64gb-green": "Apple iPad Air (4th Gen) 64GB Зелений",
+  "apple-ipad-air-4th-gen-256gb-skyblue": "Apple iPad Air (4th Gen) 256GB Небесно-синій",
+  "apple-ipad-air-4th-gen-64gb-skyblue": "Apple iPad Air (4th Gen) 64GB Небесно-синій",
+  "apple-ipad-mini-6th-gen-256gb-spacegray": "Apple iPad Mini (6th Gen) 256GB Космічний сірий",
+  "apple-ipad-mini-6th-gen-64gb-spacegray": "Apple iPad Mini (6th Gen) 64GB Космічний сірий",
+  "apple-ipad-mini-6th-gen-256gb-starlight": "Apple iPad Mini (6th Gen) 256GB Зоряне світло",
+  "apple-ipad-mini-6th-gen-64gb-starlight": "Apple iPad Mini (6th Gen) 64GB Зоряне світло",
+  "apple-ipad-mini-6th-gen-256gb-pink": "Apple iPad Mini (6th Gen) 256GB Рожевий",
+  "apple-ipad-mini-6th-gen-64gb-pink": "Apple iPad Mini (6th Gen) 64GB Рожевий",
+  "apple-ipad-10-2-2020-128gb-gold": "Apple iPad 10.2 (2020) 128GB Золотий",
+  "apple-ipad-10-2-2020-32gb-gold": "Apple iPad 10.2 (2020) 32GB Золотий",
+  "apple-ipad-10-2-2020-128gb-silver": "Apple iPad 10.2 (2020) 128GB Сріблястий",
+  "apple-ipad-10-2-2020-32gb-silver": "Apple iPad 10.2 (2020) 32GB Сріблястий",
+  "apple-ipad-10-2-2020-128gb-spacegray": "Apple iPad 10.2 (2020) 128GB Космічний сірий",
+  "apple-ipad-10-2-2020-32gb-spacegray": "Apple iPad 10.2 (2020) 32GB Космічний сірий",
+  "apple-ipad-mini-5th-gen-256gb-silver": "Apple iPad Mini (5th Gen) 256GB Сріблястий",
+  "apple-ipad-mini-5th-gen-64gb-silver": "Apple iPad Mini (5th Gen) 64GB Сріблястий",
+  "apple-ipad-mini-5th-gen-256gb-spacegray": "Apple iPad Mini (5th Gen) 256GB Космічний сірий",
+  "apple-ipad-mini-5th-gen-64gb-spacegray": "Apple iPad Mini (5th Gen) 64GB Космічний сірий",
+  "apple-ipad-mini-5th-gen-256gb-gold": "Apple iPad Mini (5th Gen) 256GB Золотий",
+  "apple-ipad-mini-5th-gen-64gb-gold": "Apple iPad Mini (5th Gen) 64GB Золотий",
+  "apple-iphone-13-pro-max-512gb-sierrablue": "Apple iPhone 13 Pro Max 512GB Сієрра Блю",
+
+  "about": "Про товар",
+
+    "phones": {
+    "apple-iphone-11": {
+      "description": {
+        "0": {
+          "title": "А тепер з’явився Pro",
+          "text": {
+            "0": "Трансформаційна система з трьома камерами, що додає безліч можливостей без складності.",
+            "1": "Безпрецедентний стрибок у часі роботи батареї. І приголомшливий чіп, який подвоює можливості машинного навчання та розширює межі можливостей смартфона. Ласкаво просимо до першого iPhone, достатньо потужного, щоб називатися Pro"
+          }
+        },
+        "1": {
+          "title": "Камера",
+          "text": {
+            "2": "Зустрічайте першу систему з трьома камерами, яка поєднує передові технології з легендарною простотою iPhone. Знімайте до чотирьох разів більше сцени. Отримуйте чудові зображення за значно нижчого освітлення. Знімайте відео найвищої якості на смартфон, а потім редагуйте його за допомогою тих самих інструментів, які ви любите для фотографій. Ви ніколи не знімали з чимось подібним."
+          }
+        },
+        "2": {
+          "title": "Знімайте, перевертайте, збільшуйте, обрізаайте, редагуйте, освітлюйте, налаштовуйте та насолоджуйтесь.",
+          "text": {
+            "3": "iPhone 11 Pro дозволяє знімати відео, які є надзвичайно реалістичними, з більшою деталізацією та плавністю руху. Потужна обробка дозволяє знімати 4K відео з розширеним динамічним діапазоном та кінематографічною стабілізацією відео — все це на швидкості 60 кадрів на секунду. Ви також отримуєте більше творчого контролю завдяки чотирьом разів більшій сцені та потужним новим інструментам редагування."
+          }
+        },
+        "3": { "title": "Чудово"},
+        "4":{
+        "title": "Пронесися швидко.",
+        "text": {
+          "5":"Швидкість 5G. A14 Bionic, найшвидший чіп у смартфоні. OLED-дисплей від краю до краю. Ceramic Shield із вчетверо кращим захистом від падінь. І нічний режим на кожній камері. iPhone 12 має все це — у двох ідеальних розмірах."
+    }
+  },
+      "6": {
+        "title": "Чіп A14 Bionic. Єдине, що могло з ним зрівнятися, — це наш попередній чіп.",
+        "text": {
+          "7": "A14 Bionic — це перший у галузі 5-нанометровий чіп із передовими компонентами, розмір яких дорівнює буквально атомам. На 40 % більше транзисторів підвищують швидкість роботи та ефективність, забезпечуючи тривалий час автономної роботи. А новий ISP підтримує запис у форматі Dolby Vision — те, що не під силу жодній професійній кінокамері, не кажучи вже про інші телефони."
+
+      }
+
+ },
+     "8": {
+      "title": "Нічний режим доступний для всіх ваших камер.",
+      "text": {
+        "9":  "Низька освітленість тепер стала перевагою. Від слабо освітлених ресторанів до пляжів у місячному світлі — новий нічний режим забезпечує природні знімки при низькій освітленості — автоматично."
+
+
+}
+      },
+       "10":{
+        "title": "Ваша нова суперсила.",
+        "text": {
+          "11": "A15 Bionic — найшвидший чіп, який коли-небудь використовувався в смартфоні. Дисплей Super Retina XDR з технологією ProMotion. Міцний захисний шар Ceramic Shield, який у 4 рази краще захищає від падінь. Новий нічний режим на всіх камерах. Це найкращий iPhone, оснащений найкращим чіпом."
+  }},
+      "12": {
+        "title": "Чіп A15 Bionic. Суперпотужність. Міні-розмір.",
+        "text": {
+          "13": "Чіп A15 Bionic — найшвидший чіп, який коли-небудь використовувався в смартфоні. Він забезпечує роботу всіх функцій, від фотографії до ігор. А неймовірні прискорювачі машинного навчання дозволяють вам відчути доповнену реальність, як ніколи раніше."
+
+      }
+
+ },
+     "14": {
+      "title": "Дивовижна камера. Не потрібно бути професіоналом.",
+      "text": {
+        "15": "iPhone 13 Mini робить приголомшливі фотографії та відеозаписи завдяки вдосконаленій системі подвійної камери з новим нічним режимом на всіх камерах. А функція «Фотографічні стилі» персоналізує ваші фотографії в режимі реального часу, надаючи їм прекрасного вигляду."
+
+
+}
+    },
+     "16": {
+      "title": "Найкраща професійна камера",
+      "text": {
+        "17":  "Представляємо першу професійну камеру, яка також є iPhone — з 3-кратним оптичним зумом, макрозйомкою, портретами в нічному режимі та новим форматом ProRes для найвищої якості відео, яку коли-небудь бачили в смартфоні. Готуйтеся знімати як професіонал."
+
+      }
+},
+ "18":{
+        "title": "Кінематографічний режим",
+        "text": {
+          "19": "Знімайте як професіонал, використовуючи ексклюзивний доступ до ефекту глибини різкості в режимі «Кіно», який тепер доступний як для ширококутної, так і для телеоб'єктива. Додавайте переходи фокусу для створення креативного вигляду та легко перемикайтеся між камерами, щоб зафіксувати більше моменті"
+    }
+  },
+      "20": {
+        "title": "A15 Bionic",
+        "text": {
+          "21": "A15 Bionic — найшвидший чіп, який коли-небудь використовувався в смартфоні. Він забезпечує неймовірні можливості у сфері фотографії, відео, ігор та багато іншого, при цьому гарантуючи чудову автономність. А також він підтримує найсучасніші функції машинного навчання серед усіх смартфонів, забезпечуючи досвід нового рівня."
+
+      }
+
+ },
+     "22": {
+      "title": "ProMotion",
+      "text": {
+        "23": "Технологія ProMotion автоматично налаштовує дисплей відповідно до руху на екрані, забезпечуючи більш плавне прокручування, кращу чутливість і плавніший рух, а також батарею, яка витримує цілий день."
+
+
+  }
+  }
+  }
+  }
+  },
+  "tablets": {
+    "apple-ipad-pro-11-2021": {
+      "description": {
+        "0": {
+          "title": "Потужна продуктивність",
+          "text": {
+            "0":  "Відчуйте неймовірну потужність і продуктивність Apple iPad Pro 11. Завдяки чіпу M1 він забезпечує новий рівень продуктивності, роблячи його швидшим і ефективнішим, ніж будь-коли раніше.",
+            "1": "Незалежно від того, чи ви редагуєте фотографії, створюєте графічні роботи чи виконуєте кілька завдань одночасно у вимогливих програмах, iPad Pro 11 з легкістю впорається з усім."
+          }
+        },
+        "1": {
+          "title": "Вражаючий рідкокристалічний дисплей Retina",
+          "text": {
+            "2": "Насолоджуйтесь яскравими та реалістичними зображеннями на дисплеї Liquid Retina iPad Pro 11. Завдяки технологіям ProMotion і True Tone дисплей адаптується до навколишнього середовища, забезпечуючи плавне прокручування, точну передачу кольорів і неймовірну деталізацію.",
+            "3": "Від перегляду фільмів до редагування відео — дисплей iPad Pro 11 оживляє ваш контент завдяки вражаючій чіткості."
+          }
+        },
+        "2": {
+          "title": "Універсальна система камер",
+          "text": {
+            "4":  "Знімайте приголомшливі фотографії та відео за допомогою вдосконаленої камери iPad Pro 11. Завдяки 12-мегапіксельній ультраширококутній фронтальній камері та 12-мегапіксельній ширококутній задній камері зі сканером LiDAR ви можете робити високоякісні знімки та насолоджуватися доповненою реальністю.",
+            "5": "Незалежно від того, чи ви здійснюєте відеодзвінки, скануєте документи чи записуєте відео у форматі 4K, система камер iPad Pro 11 забезпечує виняткову продуктивність."
+        }
+      },
+        "6": {
+          "title": "Тонкий, легкий і потужний.",
+          "text": {
+            "7":  "Apple iPad Air (4-го покоління) поєднує в собі елегантний дизайн і високу продуктивність. Завдяки тонкому і легкому корпусу він надзвичайно портативний і його легко брати з собою куди завгодно.",
+            "8": "Завдяки чіпу A14 Bionic з Neural Engine iPad Air забезпечує швидку та ефективну роботу, що робить його ідеальним для багатозадачності, ігор та творчих завдань."
+          }
+        },
+        "9": {
+          "title": "Вражаючі рідкокристалічні дисплеї Liquid Retina.",
+          "text": {
+            "10": "Пориньте у яскраві візуальні ефекти на дисплеї Liquid Retina iPad Air. Завдяки технологіям True Tone і широкій колірній гамі P3 він забезпечує реалістичні кольори та неймовірну деталізацію.",
+            "11": "Незалежно від того, чи дивитеся ви фільми, редагуєте фотографії чи переглядаєте веб-сторінки, дисплей iPad Air забезпечує захоплююче та приємне перегляд."
+          }
+        },
+        "12": {
+          "title": "Універсальні функції та підтримка Apple Pencil",
+          "text": {
+            "13":  "Відкрийте для себе нові можливості завдяки універсальним функціям iPad Air. Він підтримує Apple Pencil (2-го покоління), що дозволяє робити нотатки, ескізи та коментарі до документів з високою точністю.",
+            "14": "Завдяки вбудованій у верхню кнопку функції Touch ID ви можете безпечно розблокувати iPad, здійснювати безпечні покупки та автентифікувати програми простим дотиком."
+        }
+      },
+      "15": {
+          "title": "Компактний і портативний",
+          "text": {
+            "16":  "Відчуйте потужність iPad у компактному розмірі з Apple iPad Mini (6-го покоління). Завдяки 8,3-дюймовому дисплею Liquid Retina та тонкому дизайну він ідеально підходить для продуктивної роботи та розваг у дорозі.",
+            "17": "Незалежно від того, чи ви читаєте, граєте в ігри чи переглядаєте відео, iPad Mini забезпечує приголомшливі візуальні враження в портативному корпусі."
+          }
+        },
+        "18": {
+          "title": "Чіп A15 Bionic і нейронний процесор",
+          "text": {
+            "19": "iPad Mini (6-го покоління) оснащений потужним чіпом A15 Bionic і Neural Engine, що забезпечує швидку та ефективну роботу. Він з легкістю справляється з вимогливими завданнями та графічно насиченими програмами, що робить його придатним як для роботи, так і для розваг.",
+            "20": "Насолоджуйтесь плавною багатозадачністю, захоплюючими іграми та безперебійною роботою додатків на iPad Mini."
+          }
+        },
+        "21": {
+          "title": "Сучасні камери та центр сцени",
+          "text": {
+            "22":  "Знімайте приголомшливі фотографії та відео за допомогою вдосконалених камер iPad Mini. Завдяки 12-мегапіксельній фронтальній камері та 12-мегапіксельній задній камері ви можете робити високоякісні знімки та записувати вражаючі відео.",
+            "23": "iPad Mini також оснащений функцією Center Stage, яка автоматично тримає вас у кадрі під час відеодзвінків, роблячи ваші розмови більш цікавими та динамічними."
+        }
+      },
+      "24": {
+          "title": "Універсальний та доступний",
+          "text": {
+            "25":  "Apple iPad 10.2 (2020) — це універсальний і доступний варіант для щоденних завдань і розваг. Незалежно від того, чи ви переглядаєте веб-сторінки, переглядаєте потокове відео чи використовуєте додатки для підвищення продуктивності, цей пристрій забезпечує плавну та чутливу роботу.",
+            "26": "Завдяки великому 10,2-дюймовому дисплею Retina він забезпечує чудовий перегляд усього вашого контенту."
+          }
+        },
+        "27": {
+          "title": "Потужна продуктивність",
+          "text": {
+            "28": "Відчуйте потужну продуктивність завдяки чіпу A12 Bionic в iPad 10.2. Він забезпечує швидку та ефективну багатозадачність, дозволяючи безперебійно та плавно запускати кілька додатків одночасно.",
+            "29": "Від ігор до редагування документів — iPad 10.2 з легкістю впорається з усім."
+          }
+        },
+        "30": {
+          "title": "Підтримка Apple Pencil та Smart Keyboard",
+          "text": {
+            "31":  "Розкрийте свій творчий потенціал і продуктивність завдяки підтримці Apple Pencil і Smart Keyboard. Робіть нотатки, малюйте і створюйте ескізи з високою точністю за допомогою Apple Pencil (1-го покоління) і перетворіть свій iPad на легкий ноутбук за допомогою Smart Keyboard.",
+            "32": "iPad 10.2 адаптується до ваших потреб, незалежно від того, чи ви студент, професіонал чи творчий митець."
+        }
+      },
+       "33": {
+          "title": "Компактний і потужний",
+          "text": {
+            "34":  "Apple iPad Mini (5-го покоління) вражає своїми компактними розмірами та потужною продуктивністю. Незалежно від того, чи ви в дорозі, чи вдома, він ідеально підходить для роботи, розваг та творчості.",
+            "35": "Завдяки чіпу A12 Bionic iPad Mini забезпечує швидку та ефективну роботу, дозволяючи безперебійно запускати ресурсоємні програми та ігри."
+          }
+        },
+        "36": {
+          "title": "Дисплей Retina та True Tone",
+          "text": {
+            "37": "Насолоджуйтесь приголомшливою графікою на дисплеї Retina iPad Mini. Технологія True Tone регулює колірну температуру дисплея відповідно до навколишнього освітлення, забезпечуючи природний і комфортний перегляд.",
+            "38": "Від читання електронних книг до перегляду фотографій — дисплей iPad Mini оживляє контент завдяки яскравим кольорам і чітким деталям."
+          }
+        },
+        "39": {
+          "title": "Підтримка Apple Pencil та Smart Keyboard",
+          "text": {
+            "40":  "Розкрийте свій творчий потенціал і продуктивність завдяки підтримці Apple Pencil і Smart Keyboard. Робіть нотатки, малюйте ескізи та додавайте коментарі до документів з високою точністю за допомогою Apple Pencil (1-го покоління) і перетворіть iPad Mini на універсальну робочу станцію за допомогою Smart Keyboard.",
+            "41": "iPad Mini адаптується до ваших потреб, що робить його потужним інструментом як для роботи, так і для розваг."
+        }}}}
+      },
+       "accessories": {
+    "apple-watch-series-3": {
+      "description": {
+       "0": {
+          "title": "Слідкуйте за своїм здоров'ям",
+          "text": {
+            "1":  "Apple Watch Series 3 оснащений датчиками, які відстежують частоту серцевих скорочень, кількість спалених калорій та інші показники фізичної форми протягом дня. Він навіть може відстежувати ваші тренування та пропонувати індивідуальні цілі щодо фізичної форми."
+
+          }
+        },
+        "2": {
+          "title": "Залишайтеся на зв'язку в дорозі",
+          "text": {
+            "3": "Завдяки стільниковому зв'язку ви можете дзвонити та надсилати текстові повідомлення з вашого зап'ястя, навіть якщо iPhone не знаходиться поруч. А за допомогою Siri ви можете отримувати вказівки, надсилати повідомлення та встановлювати нагадування, не використовуючи руки."
+
+          }
+        },
+        "4": {
+          "title": "Слухайте улюблену музику в потоковому режимі",
+          "text": {
+            "5":  "За допомогою Apple Music і Siri ви можете слухати понад 75 мільйонів пісень на своєму Apple Watch Series 3. Або слухати улюблені подкасти, аудіокниги та радіостанції."
+
+        }
+      },
+      "6": {
+          "title": "Дисплей Retina, що завжди увімкнений",
+          "text": {
+            "7":  "Apple Watch Series 6 оснащений дисплеєм Always-On Retina, який у 2,5 рази яскравіший на відкритому повітрі, коли зап'ястя опущене. Тож ви можете одразу побачити всю інформацію на циферблаті годинника."
+
+          }
+        },
+        "8": {
+          "title": "Датчик кисню в крові",
+          "text": {
+            "9": "Додаток Blood Oxygen вимірює рівень кисню в крові за допомогою революційного нового датчика та додатка. Ви також можете зробити ЕКГ з зап'ястя в будь-який час і в будь-якому місці."
+
+          }
+        },
+        "10": {
+          "title": "Відстежуйте свою щоденну активність",
+          "text": {
+            "11":  "Apple Watch Series 6 відстежує вашу щоденну активність, включаючи тренування, кількість кроків і спалені калорії. Він також має вбудований GPS для відстеження ваших пробіжок, прогулянок і походів."
+
+        }
+      },
+            "12": {
+          "title": "Дисплей Retina, що завжди увімкнений",
+          "text": {
+            "13":  "Завдяки дисплею Retina, що завжди увімкнений, ви можете легко бачити час та важливу інформацію, не піднімаючи зап'ястя. Дисплей також на 30% більший, ніж у Series 3, що полегшує читання та взаємодію з ним."
+
+          }
+        },
+        "14": {
+          "title": "Додаток ЕКГ",
+          "text": {
+            "15": "Додаток ЕКГ може виявляти порушення серцевого ритму та сповіщати вас, якщо щось здається не так. Ви також можете зробити ЕКГ в будь-який час і в будь-якому місці, просто з вашого зап'ястя."
+
+          }
+        },
+        "16": {
+          "title": "Відстеження активності",
+          "text": {
+            "17":  "Apple Watch Series 5 відстежує вашу щоденну активність, включаючи тренування, кількість кроків та спалені калорії. Він також має вбудований GPS для відстеження ваших пробіжок, прогулянок та походів."
+
+        }
+      },
+         "18": {
+          "title": "Більший дисплей",
+          "text": {
+            "19":  "Apple Watch Series 4 має більший дисплей, що дозволяє побачити більше інформації одним поглядом. Дисплей на 30% більший, ніж у Series 3, і має вигнуті кути від краю до краю."
+
+          }
+        },
+        "20": {
+          "title": "Додаток ЕКГ",
+          "text": {
+            "21": "За допомогою програми ECG ви можете зробити електрокардіограму прямо з вашого зап'ястя. Ця функція доступна тільки в деяких країнах і регіонах."
+
+          }
+        },
+        "22": {
+          "title": "Виявлення падіння",
+          "text": {
+            "23":  "Apple Watch Series 4 може виявити, коли ви впали, і надіслати сигнал тривоги до служби екстреної допомоги, якщо ви не відреагуєте протягом хвилини. Ця функція доступна лише для користувачів віком понад 65 років."
+
+        }
+      },
+              "24": {
+          "title": "Дисплей Retina",
+          "text": {
+            "25":  "Apple Watch SE оснащений дисплеєм Retina, який забезпечує чітке і яскраве зображення для зручного читання."
+
+          }
+        },
+        "26": {
+          "title": "Сімейна обстановка",
+          "text": {
+            "27": "За допомогою функції «Сімейні налаштування» ви можете з'єднати Apple Watch SE з iPhone члена сім'ї, щоб залишатися на зв'язку, навіть не маючи власного iPhone."
+
+          }
+        },
+        "28": {
+          "title": "Відстеження фізичної форми",
+          "text": {
+            "29":  "Apple Watch SE пропонує комплексні функції відстеження фізичної форми, включаючи відстеження активності, моніторинг серцевого ритму та вбудований GPS для відстеження тренувань на відкритому повітрі."
+
+        }
+      }
+
+    }
+  }}
+}

@@ -1,21 +1,26 @@
-import React from 'react';
-import './App.scss';
+import { Outlet } from 'react-router-dom';
+import { Header } from './modules/shared/Header/Header';
+import { Footer } from './modules/shared/Footer/Footer';
+import { useEffect } from 'react';
+import { useDispatch } from 'react-redux';
+import { fetchProducts } from './app/reducers/products';
+import { AppDispatch } from './app/store';
 
-interface Props {
-  onClick: () => void;
-  children: React.ReactNode;
-}
+export const App = () => {
+  const dispatch = useDispatch<AppDispatch>();
 
-export const Provider: React.FC<Props> = React.memo(({ onClick, children }) => (
-  <button type="button" onClick={onClick}>
-    {children}
-  </button>
-));
+  useEffect(() => {
+    dispatch(fetchProducts()); // Подгружаем все продукты при запуске сайта
+  }, [dispatch]);
 
-export const App: React.FC = () => {
   return (
-    <div className="starter">
-      <Provider onClick={() => ({})}>TodoList</Provider>
+    <div className="App">
+      <h1 hidden>Product Catalog</h1>
+      <Header />
+      <main>
+        <Outlet />
+      </main>
+      <Footer />
     </div>
   );
 };

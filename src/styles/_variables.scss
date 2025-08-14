@@ -1,0 +1,88 @@
+// Light theme colors
+:root {
+  --text-main-color: #313237;
+  --text-secondary-color: #89939a;
+  --favourites-icon-color: #eb5757;
+  --border-color: #e2e6e9;
+  --border-color-dark: #b4bdc3;
+  --background-color: #fff;
+  --surface-color: #fafbfc;
+  --card-background: #fff;
+  --shadow-color: rgba(0, 0, 0, 0.1);
+  --hover-background: rgba(0, 0, 0, 0.05);
+  --button-prev-banner: #fff;
+  --button-prev-banner-image: url('../../../assets/img/icons/arrow-left-icon.svg');
+  --button-next-banner: #fff;
+  --button-next-banner-image: url('../../../assets/img/icons/arrow-right-icon.svg');
+  --product-card-button-add: #313237;
+  --background-image-favourites: url('../../../assets/img/icons/favourites-icon.png');
+  --cart-icon-image: url('../../../assets/img/icons/cart-icon.png');
+  --to-top-link-image: url('../../../assets/img/icons/arrow-up-icon.svg');
+  --icon-close: url('../../../assets/img/icons/close-icon.png');
+  --icon-menu: url('../../../assets/img/icons/menu-icon.png');
+  --minus-icon: url('../../../assets/img/icons/minus-icon.png');
+  --plus-icon: url('../../../assets/img/icons/plus-icon.png');
+  --home-image: url('../../../assets/img/icons/home-icon.png');
+}
+
+// Dark theme colors
+[data-theme='dark'] {
+  --text-main-color: #f1f2f9;
+  --text-secondary-color: #75767f;
+  --favourites-icon-color: #eb5757;
+  --border-color: #75767f;
+  --border-color-dark: #4a4d59;
+  --background-color: #0f1121;
+  --surface-color: #161827;
+  --card-background: rgb(22, 24, 39);
+  --shadow-color: rgba(0, 0, 0, 0.3);
+  --hover-background: rgba(255, 255, 255, 0.1);
+  --button-prev-banner: rgb(50, 53, 66);
+  --button-next-banner: rgb(50, 53, 66);
+  --button-next-banner-image: url('../../../assets/img/icons/arrow-right-icon-dark.svg');
+  --button-prev-banner-image: url('../../../assets/img/icons/arrow-left-icon-dark.svg');
+  --product-card-button-add: rgb(144, 91, 255);
+  --background-image-favourites: url('../../../assets/img/icons/favourites-icon-dark.png');
+  --cart-icon-image: url('../../../assets/img/icons/cart-icon-dark.png');
+  --border-bottom-color: #0f1121;
+  --to-top-link-image: url('../../../assets/img/icons/arrow-up-icon-dark.svg');
+  --icon-close: url('../../../assets/img/icons/close-icon-dark.png');
+  --icon-menu: url('../../../assets/img/icons/menu-icon-dark.png');
+  --minus-icon: url('../../../assets/img/icons/minus-icon-dark.png');
+  --plus-icon: url('../../../assets/img/icons/plus-icon-dark.png');
+
+}
+
+// SCSS variables for backward compatibility
+$textMainColor: var(--text-main-color);
+$textSecondaryColor: var(--text-secondary-color);
+$favouritesIconColor: var(--favourites-icon-color);
+$borderColor: var(--border-color);
+$borderColorDark: var(--border-color-dark);
+$backgroundColor: var(--background-color);
+$surfaceColor: var(--surface-color);
+$cardBackground: var(--card-background);
+$shadowColor: var(--shadow-color);
+$hoverBackground: var(--hover-background);
+$buttonPrevBanner: var(--button-prev-banner);
+$buttonPrevBannerImage: var(--button-prev-banner-image);
+$buttonNextBanner: var(--button-next-banner);
+$buttonNextBannerImage: var(--button-next-banner-image);
+$buttonAddColor: var(--product-card-button-add);
+$backgroundImageFavourites: var(--background-image-favourites);
+$borderBottomColor: var(--border-bottom-color);
+$cartIconImage: var(--cart-icon-image);
+$toTopLinkImage: var(--to-top-link-image);
+$iconClose: var(--icon-close);
+$iconMenu: var(--icon-menu);
+$minusIcon: var(--minus-icon);
+$plusIcon: var(--plus-icon);
+$homeImage: var(--home-image);
+
+
+// Static variables
+$animation: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+$headerHeightBigScreen: 65px;
+$headerHeightSmallScreen: 48px;
+$footerHeightBigScreen: 96px;
+$footerHeightSmallScreen: 257px;

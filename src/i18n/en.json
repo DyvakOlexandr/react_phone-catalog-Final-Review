@@ -1,0 +1,588 @@
+{
+  "home": "Home",
+  "Phones": "Phones",
+  "Tablets": "Tablets",
+  "Accessories": "Accessories",
+  "no_products_matching_query_with_category": "No products matching query with category",
+  "search_placeholder": "Search for products",
+  "banner": {
+    "title": "Welcome to Nice Gadgets store!",
+    "orderNow": "Order now"
+  },
+  "models": "models",
+  "ShopCategories": "Shop by category",
+  "new_title": "Brand new models",
+  "screen_phone": "Screen",
+  "capacity_phone": "Capacity",
+  "added": "Added",
+  "add_to_cart": "Add to cart",
+  "ram": "RAM",
+  "camera": "Camera",
+  "zoom": "Zoom",
+  "cell": "Cell",
+  "maylike": "You may also like",
+  "pagenotfound": "Page not found",
+  "avilablecolors": "Available colors",
+  "selectcapacity": "Select capacity",
+  "backtop": "Back to top",
+  "rights": "rights",
+  "contacts": "Contacts",
+  "phones1": "Phones",
+  "tablets1": "Tablets",
+  "accessories1": "Accessories",
+  "back": "Back",
+  "checkout": "Checkout",
+  "cart": "Cart",
+  "favourites": "Favourites",
+    "categories": {
+    "phones": "Phones",
+    "tablets": "Tablets",
+    "accessories": "Accessories"
+  },
+  "sortby": "Sort by",
+    "sortTypes": {
+    "Newest": "Newest",
+    "Alphabetically": "Alphabetically",
+    "Cheapest": "Cheapest"
+  },
+  "newest": "Newest",
+  "alphabetically": "Alphabetically",
+   "cheapest": "Cheapest",
+   "itemsonpage": "Items on page",
+     "pagination": {
+    "all": "All"
+  },
+  "techspecs": "Tech specs",
+  "screen": "Screen",
+  "resolution": "Resolution",
+  "processor": "Processor",
+  "search": "Search...",
+  "builtinmemory": "Built-in memory",
+  "favouritesCount_one": "{{count}} favourite",
+  "favouritesCount_other": "{{count}} favourites",
+   "totalForItems_one": "Total for {{count}} item",
+  "totalForItems_other": "Total for {{count}} items",
+  "apple-iphone-7-32gb-black": "Apple iPhone 7 32GB Black",
+  "apple-iphone-7-plus-32gb-black": "Apple iPhone 7 Plus 32GB Black",
+  "apple-iphone-8-64gb-gold": "Apple iPhone 8 64GB Gold",
+  "apple-iphone-11-64gb-black": "Apple iPhone 11 64GB Black",
+  "apple-iphone-11-128gb-yellow": "Apple iPhone 11 128GB Yellow",
+  "apple-iphone-11-256gb-green": "Apple iPhone 11 256GB Green",
+  "apple-iphone-11-pro-64gb-gold": "Apple iPhone 11 Pro 64GB Gold",
+  "apple-iphone-11-pro-256gb-midnightgreen": "Apple iPhone 11 Pro 256GB Midnight green",
+  "apple-iphone-11-pro-512gb-silver": "Apple iPhone 11 Pro 512GB Silver",
+  "apple-iphone-11-pro-max-64gb-spacegray": "Apple iPhone 11 Pro Max 64GB Spacegray",
+  "apple-iphone-11-pro-max-256gb-gold": "Apple iPhone 11 Pro Max 256GB Gold",
+  "apple-iphone-11-pro-max-512gb-spacegray": "Apple iPhone 11 Pro Max 512GB Spacegray",
+  "apple-iphone-xr-64gb-red": "Apple iPhone XR 64GB Red",
+  "apple-iphone-xr-128gb-white": "Apple iPhone XR 128GB White",
+  "apple-iphone-xs-64gb-spacegray": "Apple iPhone XS 64GB Spacegray",
+  "apple-iphone-xs-max-64gb-gold": "Apple iPhone XS Max 64GB Gold",
+  "apple-iphone-xs-max-256gb-silver": "Apple iPhone XS Max 256GB Silver",
+  "apple-iphone-7-32gb-gold": "Apple iPhone 7 32GB Gold",
+  "apple-iphone-7-plus-32gb-silver": "Apple iPhone 7 Plus 32GB Silver",
+  "apple-iphone-8-64gb-spacegray": "Apple iPhone 8 64GB Space Gray",
+  "apple-iphone-11-64gb-green" : "Apple iPhone 11 64GB Green",
+  "apple-iphone-11-128gb-purple": "Apple iPhone 11 128GB Purple",
+  "apple-iphone-11-256gb-yellow": "Apple iPhone 11 256GB Yellow",
+  "apple-iphone-11-pro-256gb-gold": "Apple iPhone 11 Pro 256GB Gold",
+  "apple-iphone-11-pro-512gb-spacegray": "Apple iPhone 11 Pro 512GB Spacegray",
+  "apple-iphone-11-pro-max-64gb-silver": "Apple iPhone 11 Pro Max 64GB Silver",
+  "apple-iphone-11-pro-max-256gb-midnightgreen": "Apple iPhone 11 Pro Max 256GB Midnightgreen",
+  "apple-iphone-11-pro-max-512gb-silver": "Apple iPhone 11 Pro Max 512GB Silver",
+  "apple-iphone-xr-64gb-white": "Apple iPhone XR 64GB White",
+  "apple-iphone-xr-128gb-coral": "Apple iPhone XR 128GB Coral",
+  "apple-iphone-xs-64gb-gold": "Apple iPhone XS 64GB Gold",
+  "apple-iphone-xs-256gb-spacegray": "Apple iPhone XS 256GB Spacegray",
+  "apple-iphone-xs-max-64gb-silver": "Apple iPhone XS Max 64GB Silver",
+  "apple-iphone-xs-max-256gb-gold": "Apple iPhone XS Max 256GB Gold",
+  "apple-iphone-7-32gb-rosegold": "Apple iPhone 7 32GB Rose Gold",
+  "apple-iphone-11-64gb-purple": "Apple iPhone 11 64GB Purple",
+  "apple-iphone-11-64gb-red": "Apple iPhone 11 64GB Red",
+  "apple-iphone-11-128gb-black": "Apple iPhone 11 128GB Black",
+  "apple-iphone-11-256gb-red": "Apple iPhone 11 256GB Red",
+  "apple-iphone-11-pro-64gb-midnightgreen": "Apple iPhone 11 Pro 64GB Midnightgreen",
+  "apple-iphone-11-pro-256gb-silver": "Apple iPhone 11 Pro 256GB Silver",
+  "apple-iphone-11-pro-512gb-gold": "Apple iPhone 11 Pro 512GB Gold",
+  "apple-iphone-11-pro-max-64gb-midnightgreen": "Apple iPhone 11 Pro Max 64GB Midnightgreen",
+  "apple-iphone-11-pro-max-256gb-spacegray": "Apple iPhone 11 Pro Max 256GB Spacegray",
+  "apple-iphone-xr-64gb-coral": "Apple iPhone XR 64GB Coral",
+  "apple-iphone-xr-128gb-red": "Apple iPhone XR 128GB Red",
+  "apple-iphone-xs-256gb-gold": "Apple iPhone XS 256GB Gold",
+  "apple-iphone-xs-max-64gb-spacegray": "Apple iPhone XS Max 64GB Spacegray",
+  "apple-iphone-7-plus-32gb-rosegold": "Apple iPhone 7 Plus 32GB Rose Gold",
+  "apple-iphone-11-64gb-white": "Apple iPhone 11 64GB White",
+  "apple-iphone-11-128gb-green": "Apple iPhone 11 128GB Green",
+  "apple-iphone-11-128gb-white": "Apple iPhone 11 128GB White",
+  "apple-iphone-11-256gb-black" : "Apple iPhone 11 256GB Black",
+  "apple-iphone-11-256gb-white": "Apple iPhone 11 256GB White",
+  "apple-iphone-11-pro-64gb-spacegray": "Apple iPhone 11 Pro 64GB Spacegray",
+  "apple-iphone-11-pro-512gb-midnightgreen": "Apple iPhone 11 Pro 512GB Midnightgreen",
+  "apple-iphone-11-pro-max-64gb-gold": "Apple iPhone 11 Pro Max 64GB Gold",
+  "apple-iphone-11-pro-max-256gb-silver": "Apple iPhone 11 Pro Max 256GB Silver",
+  "apple-iphone-11-pro-max-512gb-midnightgreen": "Apple iPhone 11 Pro Max 512GB Midnightgreen",
+  "apple-iphone-xr-128gb-yellow": "Apple iPhone XR 128GB Yellow",
+  "apple-iphone-7-32gb-silver": "Apple iPhone 7 32GB Silver",
+  "apple-iphone-11-256gb-purple": "Apple iPhone 11 256GB Purple",
+  "apple-iphone-11-pro-max-512gb-gold": "Apple iPhone 11 Pro Max 512GB Gold",
+  "apple-iphone-11-64gb-yellow": "Apple iPhone 11 64GB Yellow",
+  "apple-iphone-11-pro-256gb-spacegray": "Apple iPhone 11 Pro 256GB Spacegray",
+  "apple-iphone-8-64gb-silver": "Apple iPhone 8 64GB Silver",
+  "apple-iphone-11-128gb-red": "Apple iPhone 11 128GB Red",
+  "apple-iphone-xs-max-256gb-spacegray": "Apple iPhone XS Max 256GB Spacegray",
+  "apple-iphone-7-plus-32gb-gold": "Apple iPhone 7 Plus 32GB Gold",
+  "apple-iphone-11-pro-64gb-silver": "Apple iPhone 11 Pro 64GB Silver",
+  "apple-iphone-xr-64gb-yellow": "Apple iPhone XR 64GB Yellow",
+  "apple-iphone-14-128gb-midnight": "Apple iPhone 14 128GB Midnight",
+  "apple-iphone-14-256gb-midnight": "Apple iPhone 14 256GB Midnight",
+  "apple-iphone-14-512gb-midnight": "Apple iPhone 14 512GB Midnight",
+  "apple-iphone-14-128gb-yellow": "Apple iPhone 14 128GB Yellow",
+  "apple-iphone-14-256gb-yellow": "Apple iPhone 14 256GB Yellow",
+  "apple-iphone-14-512gb-yellow": "Apple iPhone 14 512GB Yellow",
+  "apple-iphone-14-128gb-purple": "Apple iPhone 14 128GB Purple",
+  "apple-iphone-14-256gb-purple": "Apple iPhone 14 256GB Purple",
+  "apple-iphone-14-512gb-purple": "Apple iPhone 14 512GB Purple",
+  "apple-iphone-14-pro-128gb-spaceblack": "Apple iPhone 14 Pro 128GB Space Black",
+  "apple-iphone-14-pro-256gb-spaceblack": "Apple iPhone 14 Pro 256GB Space Black",
+  "apple-iphone-14-pro-512gb-spaceblack": "Apple iPhone 14 Pro 512GB Space Black",
+  "apple-iphone-14-pro-1tb-spaceblack": "Apple iPhone 14 Pro 1TB Space Black",
+  "apple-iphone-12-64gb-purple": "Apple iPhone 12 64GB Purple",
+  "apple-iphone-12-128gb-purple": "Apple iPhone 12 128GB Purple",
+  "apple-iphone-12-256gb-purple": "Apple iPhone 12 256GB Purple",
+  "apple-iphone-12-64gb-white": "Apple iPhone 12 64GB White",
+  "apple-iphone-12-128gb-white": "Apple iPhone 12 128GB White",
+  "apple-iphone-12-256gb-white": "Apple iPhone 12 256GB White",
+  "apple-iphone-12-64gb-red": "Apple iPhone 12 64GB Red",
+  "apple-iphone-12-128gb-red": "Apple iPhone 12 128GB Red",
+  "apple-iphone-12-256gb-red": "Apple iPhone 12 256GB Red",
+  "apple-iphone-12-64gb-black": "Apple iPhone 12 64GB Black",
+  "apple-iphone-12-128gb-black": "Apple iPhone 12 128GB Black",
+  "apple-iphone-12-256gb-black": "Apple iPhone 12 256GB Black",
+  "apple-iphone-13-mini-64gb-blue": "Apple iPhone 13 Mini 64GB Blue",
+  "apple-iphone-13-mini-128gb-blue": "Apple iPhone 13 Mini 128GB Blue",
+  "apple-iphone-13-mini-256gb-blue": "Apple iPhone 13 Mini 256GB Blue",
+  "apple-iphone-13-mini-64gb-white": "Apple iPhone 13 Mini 64GB White",
+  "apple-iphone-13-mini-128gb-white": "Apple iPhone 13 Mini 128GB White",
+  "apple-iphone-13-mini-256gb-white": "Apple iPhone 13 Mini 256GB White",
+  "apple-iphone-13-mini-64gb-pink": "Apple iPhone 13 Mini 64GB Pink",
+  "apple-iphone-13-mini-128gb-pink": "Apple iPhone 13 Mini 128GB Pink",
+  "apple-iphone-13-mini-256gb-pink": "Apple iPhone 13 Mini 256GB Pink",
+  "apple-iphone-13-mini-64gb-midnight": "Apple iPhone 13 Mini 64GB Midnight",
+  "apple-iphone-13-mini-128gb-midnight": "Apple iPhone 13 Mini 128GB Midnight",
+  "apple-iphone-13-mini-256gb-midnight": "Apple iPhone 13 Mini 256GB Midnight",
+  "apple-iphone-13-pro-max-128gb-sierrablue" : "Apple iPhone 13 Pro Max 128GB Sierra Blue",
+  "apple-iphone-13-pro-max-256gb-sierrablue": "Apple iPhone 13 Pro Max 256GB Sierra Blue",
+  "apple-iphone-13-pro-max-1tb-sierrablue": "Apple iPhone 13 Pro Max 1TB Sierra Blue",
+  "apple-iphone-13-pro-max-128gb-gold": "Apple iPhone 13 Pro Max 128GB Gold",
+  "apple-iphone-13-pro-max-256gb-gold": "Apple iPhone 13 Pro Max 256GB Gold",
+  "apple-iphone-13-pro-max-512gb-gold": "Apple iPhone 13 Pro Max 512GB Gold",
+  "apple-iphone-13-pro-max-1tb-gold": "Apple iPhone 13 Pro Max 1TB Gold",
+  "apple-iphone-13-pro-max-128gb-graphite": "Apple iPhone 13 Pro Max 128GB Graphite",
+  "apple-iphone-13-pro-max-256gb-graphite": "Apple iPhone 13 Pro Max 256GB Graphite",
+  "apple-iphone-13-pro-max-512gb-graphite": "Apple iPhone 13 Pro Max 512GB Graphite",
+  "apple-iphone-13-pro-max-1tb-graphite": "Apple iPhone 13 Pro Max 1TB Graphite",
+  "apple-iphone-14-pro-128gb-gold": "Apple iPhone 14 Pro 128GB Gold",
+  "apple-iphone-14-pro-256gb-gold": "Apple iPhone 14 Pro 256GB Gold",
+  "apple-iphone-14-pro-512gb-gold": "Apple iPhone 14 Pro 512GB Gold",
+  "apple-iphone-14-pro-1tb-gold": "Apple iPhone 14 Pro 1TB Gold",
+  "apple-watch-series-3-38mm-spacegray": "Apple Watch Series 3 38mm Space Gray",
+  "apple-watch-series-3-42mm-spacegray": "Apple Watch Series 3 42mm Space Gray",
+  "apple-watch-series-3-38mm-gold": "Apple Watch Series 3 38mm Gold",
+  "apple-watch-series-3-42mm-gold": "Apple Watch Series 3 42mm Gold",
+  "apple-watch-series-3-38mm-silver": "Apple Watch Series 3 38mm Silver",
+  "apple-watch-series-3-42mm-silver": "Apple Watch Series 3 42mm Silver",
+  "apple-watch-series-6-40mm-spacegray": "Apple Watch Series 6 40mm Space Gray",
+  "apple-watch-series-6-44mm-spacegray": "Apple Watch Series 6 44mm Space Gray",
+   "apple-watch-series-6-40mm-silver": "Apple Watch Series 6 40mm Silver",
+   "apple-watch-series-6-44mm-silver": "Apple Watch Series 6 44mm Silver",
+   "apple-watch-series-6-40mm-gold": "Apple Watch Series 6 40mm Gold",
+   "apple-watch-series-6-44mm-gold": "Apple Watch Series 6 44mm Gold",
+   "apple-watch-series-6-40mm-blue": "Apple Watch Series 6 40mm Blue",
+   "apple-watch-series-6-44mm-blue": "Apple Watch Series 6 44mm Blue",
+   "apple-watch-series-6-40mm-red": "Apple Watch Series 6 40mm Red",
+   "apple-watch-series-6-44mm-red": "Apple Watch Series 6 44mm Red",
+   "apple-watch-series-5-40mm-silver": "Apple Watch Series 5 40mm Silver",
+   "apple-watch-series-5-44mm-silver": "Apple Watch Series 5 44mm Silver",
+   "apple-watch-series-5-40mm-gold": "Apple Watch Series 5 40mm Gold",
+   "apple-watch-series-5-44mm-gold": "Apple Watch Series 5 44mm Gold",
+   "apple-watch-series-5-40mm-spacegray": "Apple Watch Series 5 40mm Space Gray",
+   "apple-watch-series-5-44mm-spacegray": "Apple Watch Series 5 44mm Space Gray",
+   "apple-watch-series-4-40mm-silver": "Apple Watch Series 4 40mm Silver",
+   "apple-watch-series-4-44mm-silver": "Apple Watch Series 4 44mm Silver",
+   "apple-watch-series-4-40mm-gold": "Apple Watch Series 4 40mm Gold",
+   "apple-watch-series-4-44mm-gold": "Apple Watch Series 4 44mm Gold",
+   "apple-watch-series-4-40mm-spacegray": "Apple Watch Series 4 40mm Space Gray",
+   "apple-watch-series-4-44mm-spacegray": "Apple Watch Series 4 44mm Space Gray",
+   "apple-watch-se-40mm-silver": "Apple Watch SE 40mm Silver",
+   "apple-watch-se-44mm-silver": "Apple Watch SE 44mm Silver",
+   "apple-watch-se-40mm-gold": "Apple Watch SE 40mm Gold",
+   "apple-watch-se-44mm-gold": "Apple Watch SE 44mm Gold",
+   "apple-watch-se-40mm-spacegray": "Apple Watch SE 40mm Space Gray",
+   "apple-watch-se-44mm-spacegray": "Apple Watch SE 44mm Space Gray",
+  "apple-ipad-pro-11-2021-128gb-spacegray" : "Apple iPad Pro 11 (2021) 128GB Space Gray",
+  "apple-ipad-pro-11-2021-128gb-silver": "Apple iPad Pro 11 (2021) 128GB Silver",
+  "apple-ipad-pro-11-2021-256gb-spacegray": "Apple iPad Pro 11 (2021) 256GB Space Gray",
+  "apple-ipad-pro-11-2021-256gb-silver": "Apple iPad Pro 11 (2021) 256GB Silver",
+  "apple-ipad-pro-11-2021-512gb-spacegray": "Apple iPad Pro 11 (2021) 512GB Space Gray",
+  "apple-ipad-pro-11-2021-512gb-silver": "Apple iPad Pro 11 (2021) 512GB Silver",
+  "apple-ipad-pro-11-2021-1tb-spacegray": "Apple iPad Pro 11 (2021) 1TB Space Gray",
+  "apple-ipad-pro-11-2021-1tb-silver": "Apple iPad Pro 11 (2021) 1TB Silver",
+  "apple-ipad-pro-11-2021-2tb-spacegray": "Apple iPad Pro 11 (2021) 2TB Space Gray",
+  "apple-ipad-pro-11-2021-2tb-silver": "Apple iPad Pro 11 (2021) 2TB Silver",
+  "apple-ipad-air-4th-gen-256gb-rosegold": "Apple iPad Air (4th Gen) 256GB Rose Gold",
+  "apple-ipad-air-4th-gen-64gb-rosegold": "Apple iPad Air (4th Gen) 64GB Rose Gold",
+  "apple-ipad-air-4th-gen-256gb-silver": "Apple iPad Air (4th Gen) 256GB Silver",
+  "apple-ipad-air-4th-gen-64gb-silver": "Apple iPad Air (4th Gen) 64GB Silver",
+  "apple-ipad-air-4th-gen-256gb-green": "Apple iPad Air (4th Gen) 256GB Green",
+  "apple-ipad-air-4th-gen-64gb-green": "Apple iPad Air (4th Gen) 64GB Green",
+  "apple-ipad-air-4th-gen-256gb-skyblue": "Apple iPad Air (4th Gen) 256GB Sky Blue",
+  "apple-ipad-air-4th-gen-64gb-skyblue": "Apple iPad Air (4th Gen) 64GB Sky Blue",
+  "apple-ipad-mini-6th-gen-256gb-spacegray": "Apple iPad Mini (6th Gen) 256GB Space Gray",
+  "apple-ipad-mini-6th-gen-64gb-spacegray": "Apple iPad Mini (6th Gen) 64GB Space Gray",
+  "apple-ipad-mini-6th-gen-256gb-starlight" : "Apple iPad Mini (6th Gen) 256GB Starlight",
+  "apple-ipad-mini-6th-gen-64gb-starlight": "Apple iPad Mini (6th Gen) 64GB Starlight",
+  "apple-ipad-mini-6th-gen-256gb-pink": "Apple iPad Mini (6th Gen) 256GB Pink",
+  "apple-ipad-mini-6th-gen-64gb-pink": "Apple iPad Mini (6th Gen) 64GB Pink",
+  "apple-ipad-10-2-2020-128gb-gold": "Apple iPad 10.2 (2020) 128GB Gold",
+  "apple-ipad-10-2-2020-32gb-gold": "Apple iPad 10.2 (2020) 32GB Gold",
+  "apple-ipad-10-2-2020-128gb-silver": "Apple iPad 10.2 (2020) 128GB Silver",
+  "apple-ipad-10-2-2020-32gb-silver": "Apple iPad 10.2 (2020) 32GB Silver",
+  "apple-ipad-10-2-2020-128gb-spacegray": "Apple iPad 10.2 (2020) 128GB Space Gray",
+  "apple-ipad-10-2-2020-32gb-spacegray": "Apple iPad 10.2 (2020) 32GB Space Gray",
+  "apple-ipad-mini-5th-gen-256gb-silver": "Apple iPad Mini (5th Gen) 256GB Silver",
+  "apple-ipad-mini-5th-gen-64gb-silver": "Apple iPad Mini (5th Gen) 64GB Silver",
+  "apple-ipad-mini-5th-gen-256gb-spacegray": "Apple iPad Mini (5th Gen) 256GB Space Gray",
+  "apple-ipad-mini-5th-gen-64gb-spacegray": "Apple iPad Mini (5th Gen) 64GB Space Gray",
+  "apple-ipad-mini-5th-gen-256gb-gold": "Apple iPad Mini (5th Gen) 256GB Gold",
+  "apple-ipad-mini-5th-gen-64gb-gold": "Apple iPad Mini (5th Gen) 64GB Gold",
+   "apple-iphone-13-pro-max-512gb-sierrablue": "Apple iPhone 13 Pro Max 512GB Sierra Blue",
+  "about": "About",
+
+  "phones": {
+    "apple-iphone-11": {
+      "description": {
+        "0": {
+          "title": "And then there was Pro",
+          "text": {
+            "0": "A transformative triple-camera system that adds tons of capability without complexity.",
+            "1": "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+          }
+        },
+        "1": {
+          "title": "Camera",
+          "text": {
+            "2": "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+          }
+        },
+        "2": {
+          "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+          "text": {
+            "3":  "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        }
+      },
+      "3":{
+        "title": "Wonderfull"
+      },
+
+      "4":{
+        "title": "Blast past fast.",
+        "text": {
+          "5":"5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+    }
+  },
+      "6": {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": {
+          "7": "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+
+      }
+
+ },
+     "8": {
+      "title": "Night mode comes to all your cameras.",
+      "text": {
+        "9":  "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+     }
+
+
+},
+ "10":{
+        "title": "Your new superpower.",
+        "text": {
+          "11": "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+    }
+  },
+      "12": {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": {
+          "13": "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+
+      }
+
+ },
+     "14": {
+      "title": "Amazing Camera. No Pro Required.",
+      "text": {
+        "15": "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+     }
+
+
+},
+ "16": {
+      "title": "The Ultimate Pro Camera System",
+      "text": {
+        "17":   "Introducing the first pro camera system that's also an iPhone — delivering 3x optical zoom, macro photography, Night mode portraits, and a new ProRes format for the highest-quality video ever in a smartphone. Get ready to shoot like a pro."
+     }
+
+
+},
+ "18":{
+        "title": "Cinematic Mode",
+        "text": {
+          "19": "Film like a pro with exclusive access to the depth-of-field effect of Cinema mode, now on both the Wide and Telephoto cameras. Add focus transitions for a creative look, and easily switch between cameras to capture more of the moment."
+    }
+  },
+      "20": {
+        "title": "A15 Bionic",
+        "text": {
+          "21": "A15 Bionic is the fastest chip ever in a smartphone. It powers incredible experiences in photography, video, gaming, and more — all while delivering great battery life. And it enables the most advanced machine learning capabilities in any smartphone for next-level experiences."
+
+      }
+
+ },
+     "22": {
+      "title": "ProMotion",
+      "text": {
+        "23": "ProMotion technology automatically adjusts the display to the movement on your screen, for more fluid scrolling, greater responsiveness, and smoother motion — and a battery that lasts all day."
+     }
+
+
+}
+
+    }
+  }
+},
+"tablets": {
+    "apple-ipad-pro-11-2021": {
+      "description": {
+        "0": {
+          "title": "Powerful Performance",
+          "text": {
+            "0":  "Experience incredible power and performance with the Apple iPad Pro 11. With the M1 chip, it delivers a new level of performance, making it faster and more efficient than ever before.",
+            "1": "Whether you're editing photos, designing artwork, or multitasking with demanding apps, the iPad Pro 11 handles it all with ease."
+          }
+        },
+        "1": {
+          "title": "Stunning Liquid Retina Display",
+          "text": {
+            "2": "Enjoy a vibrant and immersive visual experience on the iPad Pro 11's Liquid Retina display. With ProMotion technology and True Tone, the display adapts to your environment, providing smooth scrolling, precise color accuracy, and incredible detail.",
+            "3": "From watching movies to editing videos, the iPad Pro 11's display brings your content to life with stunning clarity."
+          }
+        },
+        "2": {
+          "title": "Versatile Camera System",
+          "text": {
+            "4":  "Capture stunning photos and videos with the iPad Pro 11's advanced camera system. Featuring a 12MP Ultra Wide front camera and a 12MP Wide rear camera with LiDAR scanner, you can take high-quality shots and enjoy augmented reality experiences.",
+            "5": "Whether you're video calling, scanning documents, or recording 4K videos, the iPad Pro 11's camera system delivers exceptional performance."
+        }
+      },
+      "6": {
+          "title": "Thin, Light, and Powerful",
+          "text": {
+            "7":  "The Apple iPad Air (4th Gen) combines sleek design with powerful performance. With its thin and light form factor, it's incredibly portable and easy to carry wherever you go.",
+            "8": "Featuring the A14 Bionic chip with Neural Engine, the iPad Air delivers fast and efficient performance, making it ideal for multitasking, gaming, and creative tasks."
+          }
+        },
+        "9": {
+          "title": "Stunning Liquid Retina Display",
+          "text": {
+            "10": "Immerse yourself in vivid visuals on the iPad Air's Liquid Retina display. With True Tone and P3 wide color gamut, it offers true-to-life colors and incredible detail.",
+            "11": "Whether you're watching movies, editing photos, or browsing the web, the iPad Air's display provides an immersive and enjoyable viewing experience."
+          }
+        },
+        "12": {
+          "title": "Versatile Features and Apple Pencil Support",
+          "text": {
+            "13":  "Unlock new possibilities with the iPad Air's versatile features. It supports Apple Pencil (2nd generation), allowing you to take notes, sketch, and annotate documents with precision.",
+            "14": "With Touch ID built into the top button, you can securely unlock your iPad, make secure purchases, and authenticate apps with a simple touch."
+        }
+      },
+        "15": {
+          "title": "Compact and Portable",
+          "text": {
+            "16":  "Experience the power of an iPad in a compact size with the Apple iPad Mini (6th Gen). With its 8.3-inch Liquid Retina display and slim design, it's perfect for on-the-go productivity and entertainment.",
+            "17": "Whether you're reading, gaming, or watching videos, the iPad Mini delivers a stunning visual experience in a portable package."
+          }
+        },
+        "18": {
+          "title": "A15 Bionic Chip and Neural Engine",
+          "text": {
+            "19": "The iPad Mini (6th Gen) is equipped with the powerful A15 Bionic chip and Neural Engine, delivering fast and efficient performance. It can handle demanding tasks and graphics-intensive apps with ease, making it suitable for both work and play.",
+            "20": "Experience smooth multitasking, immersive gaming, and seamless app usage on the iPad Mini."
+          }
+        },
+        "21": {
+          "title": "Advanced Cameras and Center Stage",
+          "text": {
+            "22":  "Capture stunning photos and videos with the iPad Mini's advanced cameras. With a 12MP front camera and a 12MP rear camera, you can take high-quality shots and record impressive videos.",
+            "23": "The iPad Mini also features Center Stage, a feature that automatically keeps you in frame during video calls, making your conversations more engaging and dynamic."
+        }
+      },
+      "24": {
+          "title": "Versatile and Affordable",
+          "text": {
+            "25":  "The Apple iPad 10.2 (2020) offers a versatile and affordable option for everyday tasks and entertainment. Whether you're browsing the web, streaming content, or using productivity apps, it delivers a smooth and responsive experience.",
+            "26": "With its large 10.2-inch Retina display, it provides a great viewing experience for all your content."
+          }
+        },
+        "27": {
+          "title": "Powerful Performance",
+          "text": {
+            "28": "Experience powerful performance with the iPad 10.2's A12 Bionic chip. It enables fast and efficient multitasking, allowing you to run multiple apps smoothly and seamlessly.",
+            "29": "From gaming to editing documents, the iPad 10.2 can handle it all with ease."
+          }
+        },
+        "30": {
+          "title": "Apple Pencil and Smart Keyboard Support",
+          "text": {
+            "31":  "Unlock your creativity and productivity with Apple Pencil and Smart Keyboard support. Take notes, draw, and sketch with precision using the Apple Pencil (1st generation), and transform your iPad into a lightweight laptop with the Smart Keyboard.",
+            "32": "The iPad 10.2 adapts to your needs, whether you're a student, professional, or creative artist."
+        }
+      },
+         "33": {
+          "title": "Compact and Powerful",
+          "text": {
+            "34":  "The Apple iPad Mini (5th Gen) packs a punch with its compact size and powerful performance. Whether you're on the go or at home, it's perfect for productivity, entertainment, and creativity.",
+            "35": "With its A12 Bionic chip, the iPad Mini delivers fast and efficient performance, allowing you to run demanding apps and games smoothly."
+          }
+        },
+        "36": {
+          "title": "Retina Display and True Tone",
+          "text": {
+            "37": "Experience stunning visuals on the iPad Mini's Retina display. With True Tone technology, it adjusts the display's color temperature to match the ambient lighting, providing a natural and comfortable viewing experience.",
+            "38": "From reading ebooks to browsing photos, the iPad Mini's display brings content to life with vibrant colors and sharp details."
+          }
+        },
+        "39": {
+          "title": "Apple Pencil and Smart Keyboard Support",
+          "text": {
+            "40":  "Unlock your creativity and productivity with Apple Pencil and Smart Keyboard support. Take notes, sketch, and annotate documents with precision using the Apple Pencil (1st generation), and turn your iPad Mini into a versatile workstation with the Smart Keyboard.",
+            "41": "The iPad Mini adapts to your needs, making it a powerful tool for both work and play."
+        }
+      }}}
+      },
+      "accessories": {
+    "apple-watch-series-3": {
+      "description": {
+       "0": {
+          "title": "Monitor your health",
+          "text": {
+            "1":  "The Apple Watch Series 3 is equipped with sensors to track your heart rate, calories burned, and other fitness metrics throughout the day. It can even track your workouts and suggest personalized fitness goals."
+
+          }
+        },
+        "2": {
+          "title": "Stay connected on the go",
+          "text": {
+            "3": "With cellular connectivity, you can make calls and send texts from your wrist even without your iPhone nearby. And with Siri, you can get directions, send messages, and set reminders hands-free."
+
+          }
+        },
+        "4": {
+          "title": "Stream your favorite music",
+          "text": {
+            "5":  "With Apple Music and Siri, you can stream over 75 million songs on your Apple Watch Series 3. Or listen to your favorite podcasts, audiobooks, and radio stations."
+
+        }
+      },
+      "6": {
+          "title": "Always-On Retina display",
+          "text": {
+            "7":  "The Apple Watch Series 6 features an Always-On Retina display that is 2.5 times brighter outdoors when your wrist is down. So you can see all the information on your watch face at a glance."
+
+          }
+        },
+        "8": {
+          "title": "Blood oxygen sensor",
+          "text": {
+            "9": "The Blood Oxygen app measures your blood oxygen levels with a revolutionary new sensor and app. You can also take an ECG from your wrist anytime, anywhere."
+
+          }
+        },
+        "10": {
+          "title": "Track your daily activity",
+          "text": {
+            "11":  "The Apple Watch Series 6 tracks your daily activity including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
+
+        }
+      },
+      "12": {
+          "title": "Always-On Retina display",
+          "text": {
+            "13":  "With the Always-On Retina display, you can easily see the time and important information without raising your wrist. The display is also 30% larger than the Series 3, making it easier to read and interact with."
+
+          }
+        },
+        "14": {
+          "title": "ECG app",
+          "text": {
+            "15": "The ECG app can detect irregular heart rhythms and alert you if something seems amiss. You can also take an ECG anytime, anywhere, right from your wrist."
+
+          }
+        },
+        "16": {
+          "title": "Activity tracking",
+          "text": {
+            "17":  "The Apple Watch Series 5 tracks your daily activity, including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
+
+        }
+      },
+           "18": {
+          "title": "Larger display",
+          "text": {
+            "19":  "The Apple Watch Series 4 has a larger display that lets you see more information at a glance. The display is over 30% larger than the Series 3 and is edge-to-edge with curved corners."
+
+          }
+        },
+        "20": {
+          "title": "ECG app",
+          "text": {
+            "21": "With the ECG app, you can take an electrocardiogram right from your wrist. This feature is only available in certain countries and regions."
+
+          }
+        },
+        "22": {
+          "title": "Fall detection",
+          "text": {
+            "23":  "The Apple Watch Series 4 can detect when you fall and can send an alert to emergency services if you don't respond within a minute. This feature is only available for users over 65 years old."
+
+        }
+      },
+            "24": {
+          "title": "Retina display",
+          "text": {
+            "25":  "The Apple Watch SE features a Retina display that provides clear and vibrant visuals for easy readability."
+
+          }
+        },
+        "26": {
+          "title": "Family Setup",
+          "text": {
+            "27": "With Family Setup, you can pair your Apple Watch SE with a family member's iPhone, so you can stay connected even without owning an iPhone yourself."
+
+          }
+        },
+        "28": {
+          "title": "Fitness tracking",
+          "text": {
+            "29":  "The Apple Watch SE offers comprehensive fitness tracking features, including activity tracking, heart rate monitoring, and built-in GPS for tracking your outdoor workouts."
+
+        }
+      }
+
+    }
+  }}
+
+
+}
+
