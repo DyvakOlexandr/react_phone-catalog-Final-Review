@@ -61,7 +61,7 @@ To run this project locally, follow these steps:
 The project is hosted on GitHub Pages and can be accessed directly at the following URL:
 https://DyvakOlexandr.github.io/react_phone-catalog-Final-Review/
 
-   1. **Clone the repository:**
+   1.**Clone the repository:**
      git clone https://github.com/DyvakOlexandr/react_phone-catalog-Final-Review.git
      cd react_phone-catalog-Final-Review
 
