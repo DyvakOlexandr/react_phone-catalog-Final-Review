@@ -67,7 +67,7 @@ https://DyvakOlexandr.github.io/react_phone-catalog-Final-Review/
      npm install
      # or
      yarn install
-   3. **Start the development server:**
+   3.**Start the development server:**
      The application will launch in development mode.
      npm start
      # or
