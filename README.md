@@ -71,4 +71,4 @@ https://DyvakOlexandr.github.io/react_phone-catalog-Final-Review/
      The application will launch in development mode.
      npm start
      # or
-    yarn start
+     yarn start
