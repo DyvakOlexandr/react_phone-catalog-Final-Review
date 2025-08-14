@@ -1,0 +1,1680 @@
+[
+  {
+    "id": "apple-ipad-pro-11-2021-128gb-spacegray",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-pro-11-2021",
+    "name": "apple-ipad-pro-11-2021-128gb-spacegray",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB", "2TB"],
+    "capacity": "128GB",
+    "priceRegular": 799,
+    "priceDiscount": 749,
+    "colorsAvailable": ["spacegray", "silver"],
+    "color": "spacegray",
+    "images": [
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/00.webp",
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/01.webp",
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/02.webp"
+    ],
+    "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.0.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.0.text.0",
+          "tablets.apple-ipad-pro-11-2021.description.0.text.1"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.1.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.1.text.2",
+          "tablets.apple-ipad-pro-11-2021.description.1.text.3"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.2.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.2.text.4",
+          "tablets.apple-ipad-pro-11-2021.description.2.text.5"
+        ]
+      }
+    ],
+    "screen": "11' Liquid Retina",
+    "resolution": "2388x1668",
+    "processor": "Apple M1",
+    "ram": "8GB",
+    "camera": "12MP + 12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-pro-11-2021-256gb-spacegray",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-pro-11-2021",
+    "name": "apple-ipad-pro-11-2021-256gb-spacegray",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB", "2TB"],
+    "capacity": "256GB",
+    "priceRegular": 829,
+    "priceDiscount": 799,
+    "colorsAvailable": ["spacegray", "silver"],
+    "color": "spacegray",
+    "images": [
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/00.webp",
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/01.webp",
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/02.webp"
+    ],
+  "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.0.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.0.text.0",
+          "tablets.apple-ipad-pro-11-2021.description.0.text.1"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.1.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.1.text.2",
+          "tablets.apple-ipad-pro-11-2021.description.1.text.3"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.2.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.2.text.4",
+          "tablets.apple-ipad-pro-11-2021.description.2.text.5"
+        ]
+      }
+    ],
+    "screen": "11' Liquid Retina",
+    "resolution": "2388x1668",
+    "processor": "Apple M1",
+    "ram": "8GB",
+    "camera": "12MP + 12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-pro-11-2021-512gb-spacegray",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-pro-11-2021",
+    "name": "apple-ipad-pro-11-2021-512gb-spacegray",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB", "2TB"],
+    "capacity": "512GB",
+    "priceRegular": 869,
+    "priceDiscount": 819,
+    "colorsAvailable": ["spacegray", "silver"],
+    "color": "spacegray",
+    "images": [
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/00.webp",
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/01.webp",
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/02.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.0.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.0.text.0",
+          "tablets.apple-ipad-pro-11-2021.description.0.text.1"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.1.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.1.text.2",
+          "tablets.apple-ipad-pro-11-2021.description.1.text.3"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.2.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.2.text.4",
+          "tablets.apple-ipad-pro-11-2021.description.2.text.5"
+        ]
+      }
+    ],
+    "screen": "11' Liquid Retina",
+    "resolution": "2388x1668",
+    "processor": "Apple M1",
+    "ram": "8GB",
+    "camera": "12MP + 12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-pro-11-2021-1tb-spacegray",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-pro-11-2021",
+    "name": "apple-ipad-pro-11-2021-1tb-spacegray",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB", "2TB"],
+    "capacity": "1TB",
+    "priceRegular": 899,
+    "priceDiscount": 879,
+    "colorsAvailable": ["spacegray", "silver"],
+    "color": "spacegray",
+    "images": [
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/00.webp",
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/01.webp",
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/02.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.0.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.0.text.0",
+          "tablets.apple-ipad-pro-11-2021.description.0.text.1"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.1.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.1.text.2",
+          "tablets.apple-ipad-pro-11-2021.description.1.text.3"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.2.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.2.text.4",
+          "tablets.apple-ipad-pro-11-2021.description.2.text.5"
+        ]
+      }
+    ],
+    "screen": "11' Liquid Retina",
+    "resolution": "2388x1668",
+    "processor": "Apple M1",
+    "ram": "16GB",
+    "camera": "12MP + 12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-pro-11-2021-2tb-spacegray",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-pro-11-2021",
+    "name": "apple-ipad-pro-11-2021-2tb-spacegray",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB", "2TB"],
+    "capacity": "2TB",
+    "priceRegular": 999,
+    "priceDiscount": 939,
+    "colorsAvailable": ["spacegray", "silver"],
+    "color": "spacegray",
+    "images": [
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/00.webp",
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/01.webp",
+      "img/tablets/apple-ipad-pro-11-2021/spacegray/02.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.0.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.0.text.0",
+          "tablets.apple-ipad-pro-11-2021.description.0.text.1"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.1.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.1.text.2",
+          "tablets.apple-ipad-pro-11-2021.description.1.text.3"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.2.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.2.text.4",
+          "tablets.apple-ipad-pro-11-2021.description.2.text.5"
+        ]
+      }
+    ],
+    "screen": "11' Liquid Retina",
+    "resolution": "2388x1668",
+    "processor": "Apple M1",
+    "ram": "16GB",
+    "camera": "12MP + 12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-pro-11-2021-128gb-silver",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-pro-11-2021",
+    "name": "apple-ipad-pro-11-2021-128gb-silver",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB", "2TB"],
+    "capacity": "128GB",
+    "priceRegular": 799,
+    "priceDiscount": 749,
+    "colorsAvailable": ["spacegray", "silver"],
+    "color": "silver",
+    "images": [
+      "img/tablets/apple-ipad-pro-11-2021/silver/00.webp",
+      "img/tablets/apple-ipad-pro-11-2021/silver/01.webp",
+      "img/tablets/apple-ipad-pro-11-2021/silver/02.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.0.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.0.text.0",
+          "tablets.apple-ipad-pro-11-2021.description.0.text.1"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.1.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.1.text.2",
+          "tablets.apple-ipad-pro-11-2021.description.1.text.3"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.2.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.2.text.4",
+          "tablets.apple-ipad-pro-11-2021.description.2.text.5"
+        ]
+      }
+    ],
+    "screen": "11' Liquid Retina",
+    "resolution": "2388x1668",
+    "processor": "Apple M1",
+    "ram": "8GB",
+    "camera": "12MP + 12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-pro-11-2021-256gb-silver",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-pro-11-2021",
+    "name": "apple-ipad-pro-11-2021-256gb-silver",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB", "2TB"],
+    "capacity": "256GB",
+    "priceRegular": 829,
+    "priceDiscount": 799,
+    "colorsAvailable": ["spacegray", "silver"],
+    "color": "silver",
+    "images": [
+      "img/tablets/apple-ipad-pro-11-2021/silver/00.webp",
+      "img/tablets/apple-ipad-pro-11-2021/silver/01.webp",
+      "img/tablets/apple-ipad-pro-11-2021/silver/02.webp"
+    ],
+  "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.0.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.0.text.0",
+          "tablets.apple-ipad-pro-11-2021.description.0.text.1"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.1.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.1.text.2",
+          "tablets.apple-ipad-pro-11-2021.description.1.text.3"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.2.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.2.text.4",
+          "tablets.apple-ipad-pro-11-2021.description.2.text.5"
+        ]
+      }
+    ],
+    "screen": "11' Liquid Retina",
+    "resolution": "2388x1668",
+    "processor": "Apple M1",
+    "ram": "8GB",
+    "camera": "12MP + 12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-pro-11-2021-512gb-silver",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-pro-11-2021",
+    "name": "apple-ipad-pro-11-2021-512gb-silver",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB", "2TB"],
+    "capacity": "512GB",
+    "priceRegular": 869,
+    "priceDiscount": 819,
+    "colorsAvailable": ["spacegray", "silver"],
+    "color": "silver",
+    "images": [
+      "img/tablets/apple-ipad-pro-11-2021/silver/00.webp",
+      "img/tablets/apple-ipad-pro-11-2021/silver/01.webp",
+      "img/tablets/apple-ipad-pro-11-2021/silver/02.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.0.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.0.text.0",
+          "tablets.apple-ipad-pro-11-2021.description.0.text.1"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.1.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.1.text.2",
+          "tablets.apple-ipad-pro-11-2021.description.1.text.3"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.2.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.2.text.4",
+          "tablets.apple-ipad-pro-11-2021.description.2.text.5"
+        ]
+      }
+    ],
+    "screen": "11' Liquid Retina",
+    "resolution": "2388x1668",
+    "processor": "Apple M1",
+    "ram": "8GB",
+    "camera": "12MP + 12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-pro-11-2021-1tb-silver",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-pro-11-2021",
+    "name": "apple-ipad-pro-11-2021-1tb-silver",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB", "2TB"],
+    "capacity": "1TB",
+    "priceRegular": 899,
+    "priceDiscount": 879,
+    "colorsAvailable": ["spacegray", "silver"],
+    "color": "silver",
+    "images": [
+      "img/tablets/apple-ipad-pro-11-2021/silver/00.webp",
+      "img/tablets/apple-ipad-pro-11-2021/silver/01.webp",
+      "img/tablets/apple-ipad-pro-11-2021/silver/02.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.0.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.0.text.0",
+          "tablets.apple-ipad-pro-11-2021.description.0.text.1"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.1.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.1.text.2",
+          "tablets.apple-ipad-pro-11-2021.description.1.text.3"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.2.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.2.text.4",
+          "tablets.apple-ipad-pro-11-2021.description.2.text.5"
+        ]
+      }
+    ],
+    "screen": "11' Liquid Retina",
+    "resolution": "2388x1668",
+    "processor": "Apple M1",
+    "ram": "16GB",
+    "camera": "12MP + 12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-pro-11-2021-2tb-silver",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-pro-11-2021",
+    "name": "apple-ipad-pro-11-2021-2tb-silver",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB", "2TB"],
+    "capacity": "2TB",
+    "priceRegular": 999,
+    "priceDiscount": 939,
+    "colorsAvailable": ["spacegray", "silver"],
+    "color": "silver",
+    "images": [
+      "img/tablets/apple-ipad-pro-11-2021/silver/00.webp",
+      "img/tablets/apple-ipad-pro-11-2021/silver/01.webp",
+      "img/tablets/apple-ipad-pro-11-2021/silver/02.webp"
+    ],
+
+    "screen": "11' Liquid Retina",
+    "resolution": "2388x1668",
+    "processor": "Apple M1",
+    "ram": "16GB",
+    "camera": "12MP + 12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-air-4th-gen-256gb-rosegold",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-air-4th-gen",
+    "name": "apple-ipad-air-4th-gen-256gb-rosegold",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 749,
+    "priceDiscount": 699,
+    "colorsAvailable": ["rosegold", "silver", "green", "skyblue"],
+    "color": "rosegold",
+    "images": [
+      "img/tablets/apple-ipad-air-4th-gen/rosegold/00.webp",
+      "img/tablets/apple-ipad-air-4th-gen/rosegold/01.webp",
+      "img/tablets/apple-ipad-air-4th-gen/rosegold/02.webp",
+      "img/tablets/apple-ipad-air-4th-gen/rosegold/03.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.6.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.6.text.7",
+          "tablets.apple-ipad-pro-11-2021.description.6.text.8"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.9.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.9.text.10",
+          "tablets.apple-ipad-pro-11-2021.description.9.text.11"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.12.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.12.text.13",
+          "tablets.apple-ipad-pro-11-2021.description.12.text.14"
+        ]
+      }
+    ],
+    "screen": "10.9' Liquid Retina",
+    "resolution": "2360x1640",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-air-4th-gen-64gb-rosegold",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-air-4th-gen",
+    "name": "apple-ipad-air-4th-gen-64gb-rosegold",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 599,
+    "priceDiscount": 549,
+    "colorsAvailable": ["rosegold", "silver", "green", "skyblue"],
+    "color": "rosegold",
+    "images": [
+      "img/tablets/apple-ipad-air-4th-gen/rosegold/00.webp",
+      "img/tablets/apple-ipad-air-4th-gen/rosegold/01.webp",
+      "img/tablets/apple-ipad-air-4th-gen/rosegold/02.webp",
+      "img/tablets/apple-ipad-air-4th-gen/rosegold/03.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.6.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.6.text.7",
+          "tablets.apple-ipad-pro-11-2021.description.6.text.8"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.9.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.9.text.10",
+          "tablets.apple-ipad-pro-11-2021.description.9.text.11"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.12.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.12.text.13",
+          "tablets.apple-ipad-pro-11-2021.description.12.text.14"
+        ]
+      }
+    ],
+    "screen": "10.9' Liquid Retina",
+    "resolution": "2360x1640",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-air-4th-gen-64gb-silver",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-air-4th-gen",
+    "name": "apple-ipad-air-4th-gen-64gb-silver",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 599,
+    "priceDiscount": 549,
+    "colorsAvailable": ["rosegold", "silver", "green", "skyblue"],
+    "color": "silver",
+    "images": [
+      "img/tablets/apple-ipad-air-4th-gen/silver/00.webp",
+      "img/tablets/apple-ipad-air-4th-gen/silver/01.webp",
+      "img/tablets/apple-ipad-air-4th-gen/silver/02.webp",
+      "img/tablets/apple-ipad-air-4th-gen/silver/03.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.6.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.6.text.7",
+          "tablets.apple-ipad-pro-11-2021.description.6.text.8"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.9.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.9.text.10",
+          "tablets.apple-ipad-pro-11-2021.description.9.text.11"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.12.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.12.text.13",
+          "tablets.apple-ipad-pro-11-2021.description.12.text.14"
+        ]
+      }
+    ],
+    "screen": "10.9' Liquid Retina",
+    "resolution": "2360x1640",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-air-4th-gen-256gb-silver",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-air-4th-gen",
+    "name": "apple-ipad-air-4th-gen-256gb-silver",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 749,
+    "priceDiscount": 699,
+    "colorsAvailable": ["rosegold", "silver", "green", "skyblue"],
+    "color": "silver",
+    "images": [
+      "img/tablets/apple-ipad-air-4th-gen/silver/00.webp",
+      "img/tablets/apple-ipad-air-4th-gen/silver/01.webp",
+      "img/tablets/apple-ipad-air-4th-gen/silver/02.webp",
+      "img/tablets/apple-ipad-air-4th-gen/silver/03.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.6.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.6.text.7",
+          "tablets.apple-ipad-pro-11-2021.description.6.text.8"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.9.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.9.text.10",
+          "tablets.apple-ipad-pro-11-2021.description.9.text.11"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.12.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.12.text.13",
+          "tablets.apple-ipad-pro-11-2021.description.12.text.14"
+        ]
+      }
+    ],
+    "screen": "10.9' Liquid Retina",
+    "resolution": "2360x1640",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-air-4th-gen-256gb-green",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-air-4th-gen",
+    "name": "apple-ipad-air-4th-gen-256gb-green",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 749,
+    "priceDiscount": 699,
+    "colorsAvailable": ["rosegold", "silver", "green", "skyblue"],
+    "color": "green",
+    "images": [
+      "img/tablets/apple-ipad-air-4th-gen/green/00.webp",
+      "img/tablets/apple-ipad-air-4th-gen/green/01.webp",
+      "img/tablets/apple-ipad-air-4th-gen/green/02.webp",
+      "img/tablets/apple-ipad-air-4th-gen/green/03.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.6.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.6.text.7",
+          "tablets.apple-ipad-pro-11-2021.description.6.text.8"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.9.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.9.text.10",
+          "tablets.apple-ipad-pro-11-2021.description.9.text.11"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.12.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.12.text.13",
+          "tablets.apple-ipad-pro-11-2021.description.12.text.14"
+        ]
+      }
+    ],
+    "screen": "10.9' Liquid Retina",
+    "resolution": "2360x1640",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-air-4th-gen-64gb-green",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-air-4th-gen",
+    "name": "apple-ipad-air-4th-gen-64gb-green",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 599,
+    "priceDiscount": 549,
+    "colorsAvailable": ["rosegold", "silver", "green", "skyblue"],
+    "color": "green",
+    "images": [
+      "img/tablets/apple-ipad-air-4th-gen/green/00.webp",
+      "img/tablets/apple-ipad-air-4th-gen/green/01.webp",
+      "img/tablets/apple-ipad-air-4th-gen/green/02.webp",
+      "img/tablets/apple-ipad-air-4th-gen/green/03.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.6.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.6.text.7",
+          "tablets.apple-ipad-pro-11-2021.description.6.text.8"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.9.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.9.text.10",
+          "tablets.apple-ipad-pro-11-2021.description.9.text.11"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.12.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.12.text.13",
+          "tablets.apple-ipad-pro-11-2021.description.12.text.14"
+        ]
+      }
+    ],
+    "screen": "10.9' Liquid Retina",
+    "resolution": "2360x1640",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-air-4th-gen-64gb-skyblue",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-air-4th-gen",
+    "name": "apple-ipad-air-4th-gen-64gb-skyblue",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 599,
+    "priceDiscount": 549,
+    "colorsAvailable": ["rosegold", "silver", "green", "skyblue"],
+    "color": "skyblue",
+    "images": [
+      "img/tablets/apple-ipad-air-4th-gen/skyblue/00.webp",
+      "img/tablets/apple-ipad-air-4th-gen/skyblue/01.webp",
+      "img/tablets/apple-ipad-air-4th-gen/skyblue/02.webp",
+      "img/tablets/apple-ipad-air-4th-gen/skyblue/03.webp"
+    ],
+ "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.6.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.6.text.7",
+          "tablets.apple-ipad-pro-11-2021.description.6.text.8"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.9.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.9.text.10",
+          "tablets.apple-ipad-pro-11-2021.description.9.text.11"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.12.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.12.text.13",
+          "tablets.apple-ipad-pro-11-2021.description.12.text.14"
+        ]
+      }
+    ],
+    "screen": "10.9' Liquid Retina",
+    "resolution": "2360x1640",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-air-4th-gen-256gb-skyblue",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-air-4th-gen",
+    "name": "apple-ipad-air-4th-gen-256gb-skyblue",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 749,
+    "priceDiscount": 699,
+    "colorsAvailable": ["rosegold", "silver", "green", "skyblue"],
+    "color": "skyblue",
+    "images": [
+      "img/tablets/apple-ipad-air-4th-gen/skyblue/00.webp",
+      "img/tablets/apple-ipad-air-4th-gen/skyblue/01.webp",
+      "img/tablets/apple-ipad-air-4th-gen/skyblue/02.webp",
+      "img/tablets/apple-ipad-air-4th-gen/skyblue/03.webp"
+    ],
+ "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.6.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.6.text.7",
+          "tablets.apple-ipad-pro-11-2021.description.6.text.8"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.9.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.9.text.10",
+          "tablets.apple-ipad-pro-11-2021.description.9.text.11"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.12.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.12.text.13",
+          "tablets.apple-ipad-pro-11-2021.description.12.text.14"
+        ]
+      }
+    ],
+    "screen": "10.9' Liquid Retina",
+    "resolution": "2360x1640",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-mini-6th-gen-64gb-spacegray",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-mini-6th-gen",
+    "name": "apple-ipad-mini-6th-gen-64gb-spacegray",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 499,
+    "priceDiscount": 469,
+    "colorsAvailable": ["spacegray", "starlight", "pink"],
+    "color": "spacegray",
+    "images": [
+      "img/tablets/apple-ipad-mini-6th-gen/spacegray/00.webp",
+      "img/tablets/apple-ipad-mini-6th-gen/spacegray/01.webp",
+      "img/tablets/apple-ipad-mini-6th-gen/spacegray/02.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.15.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.15.text.16",
+          "tablets.apple-ipad-pro-11-2021.description.15.text.17"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.18.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.18.text.19",
+          "tablets.apple-ipad-pro-11-2021.description.18.text.20"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.21.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.21.text.22",
+          "tablets.apple-ipad-pro-11-2021.description.21.text.23"
+        ]
+      }
+    ],
+    "screen": "8.3' Liquid Retina",
+    "resolution": "2266x1488",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-mini-6th-gen-256gb-spacegray",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-mini-6th-gen",
+    "name": "apple-ipad-mini-6th-gen-256gb-spacegray",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 649,
+    "priceDiscount": 599,
+    "colorsAvailable": ["spacegray", "starlight", "pink"],
+    "color": "spacegray",
+    "images": [
+      "img/tablets/apple-ipad-mini-6th-gen/spacegray/00.webp",
+      "img/tablets/apple-ipad-mini-6th-gen/spacegray/01.webp",
+      "img/tablets/apple-ipad-mini-6th-gen/spacegray/02.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.15.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.15.text.16",
+          "tablets.apple-ipad-pro-11-2021.description.15.text.17"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.18.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.18.text.19",
+          "tablets.apple-ipad-pro-11-2021.description.18.text.20"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.21.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.21.text.22",
+          "tablets.apple-ipad-pro-11-2021.description.21.text.23"
+        ]
+      }
+    ],
+    "screen": "8.3' Liquid Retina",
+    "resolution": "2266x1488",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-mini-6th-gen-256gb-starlight",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-mini-6th-gen",
+    "name": "apple-ipad-mini-6th-gen-256gb-starlight",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 649,
+    "priceDiscount": 599,
+    "colorsAvailable": ["spacegray", "starlight", "pink"],
+    "color": "starlight",
+    "images": [
+      "img/tablets/apple-ipad-mini-6th-gen/starlight/00.webp",
+      "img/tablets/apple-ipad-mini-6th-gen/starlight/01.webp",
+      "img/tablets/apple-ipad-mini-6th-gen/starlight/02.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.15.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.15.text.16",
+          "tablets.apple-ipad-pro-11-2021.description.15.text.17"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.18.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.18.text.19",
+          "tablets.apple-ipad-pro-11-2021.description.18.text.20"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.21.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.21.text.22",
+          "tablets.apple-ipad-pro-11-2021.description.21.text.23"
+        ]
+      }
+    ],
+    "screen": "8.3' Liquid Retina",
+    "resolution": "2266x1488",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-mini-6th-gen-64gb-starlight",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-mini-6th-gen",
+    "name": "apple-ipad-mini-6th-gen-64gb-starlight",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 499,
+    "priceDiscount": 469,
+    "colorsAvailable": ["spacegray", "starlight", "pink"],
+    "color": "starlight",
+    "images": [
+      "img/tablets/apple-ipad-mini-6th-gen/starlight/00.webp",
+      "img/tablets/apple-ipad-mini-6th-gen/starlight/01.webp",
+      "img/tablets/apple-ipad-mini-6th-gen/starlight/02.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.15.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.15.text.16",
+          "tablets.apple-ipad-pro-11-2021.description.15.text.17"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.18.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.18.text.19",
+          "tablets.apple-ipad-pro-11-2021.description.18.text.20"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.21.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.21.text.22",
+          "tablets.apple-ipad-pro-11-2021.description.21.text.23"
+        ]
+      }
+    ],
+    "screen": "8.3' Liquid Retina",
+    "resolution": "2266x1488",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-mini-6th-gen-64gb-pink",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-mini-6th-gen",
+    "name": "apple-ipad-mini-6th-gen-64gb-pink",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 499,
+    "priceDiscount": 469,
+    "colorsAvailable": ["spacegray", "starlight", "pink"],
+    "color": "pink",
+    "images": [
+      "img/tablets/apple-ipad-mini-6th-gen/pink/00.webp",
+      "img/tablets/apple-ipad-mini-6th-gen/pink/01.webp",
+      "img/tablets/apple-ipad-mini-6th-gen/pink/02.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.15.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.15.text.16",
+          "tablets.apple-ipad-pro-11-2021.description.15.text.17"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.18.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.18.text.19",
+          "tablets.apple-ipad-pro-11-2021.description.18.text.20"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.21.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.21.text.22",
+          "tablets.apple-ipad-pro-11-2021.description.21.text.23"
+        ]
+      }
+    ],
+    "screen": "8.3' Liquid Retina",
+    "resolution": "2266x1488",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-mini-6th-gen-256gb-pink",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-mini-6th-gen",
+    "name": "apple-ipad-mini-6th-gen-256gb-pink",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 649,
+    "priceDiscount": 619,
+    "colorsAvailable": ["spacegray", "starlight", "pink"],
+    "color": "pink",
+    "images": [
+      "img/tablets/apple-ipad-mini-6th-gen/pink/00.webp",
+      "img/tablets/apple-ipad-mini-6th-gen/pink/01.webp",
+      "img/tablets/apple-ipad-mini-6th-gen/pink/02.webp"
+    ],
+    "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.15.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.15.text.16",
+          "tablets.apple-ipad-pro-11-2021.description.15.text.17"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.18.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.18.text.19",
+          "tablets.apple-ipad-pro-11-2021.description.18.text.20"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.21.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.21.text.22",
+          "tablets.apple-ipad-pro-11-2021.description.21.text.23"
+        ]
+      }
+    ],
+    "screen": "8.3' Liquid Retina",
+    "resolution": "2266x1488",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-10-2-2020-128gb-gold",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-10-2-2020",
+    "name": "apple-ipad-10-2-2020-128gb-gold",
+    "capacityAvailable": ["32GB", "128GB"],
+    "capacity": "128GB",
+    "priceRegular": 429,
+    "priceDiscount": 399,
+    "colorsAvailable": ["gold", "silver", "spacegray"],
+    "color": "gold",
+    "images": [
+      "img/tablets/apple-ipad-10-2-2020/gold/00.webp",
+      "img/tablets/apple-ipad-10-2-2020/gold/01.webp",
+      "img/tablets/apple-ipad-10-2-2020/gold/02.webp",
+      "img/tablets/apple-ipad-10-2-2020/gold/03.webp"
+    ],
+   "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.24.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.24.text.25",
+          "tablets.apple-ipad-pro-11-2021.description.24.text.26"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.27.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.27.text.28",
+          "tablets.apple-ipad-pro-11-2021.description.27.text.29"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.30.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.30.text.31",
+          "tablets.apple-ipad-pro-11-2021.description.30.text.32"
+        ]
+      }
+    ],
+    "screen": "10.2' Retina",
+    "resolution": "2160x1620",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "8MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-10-2-2020-32gb-gold",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-10-2-2020",
+    "name": "apple-ipad-10-2-2020-32gb-gold",
+    "capacityAvailable": ["32GB", "128GB"],
+    "capacity": "32GB",
+    "priceRegular": 329,
+    "priceDiscount": 299,
+    "colorsAvailable": ["gold", "silver", "spacegray"],
+    "color": "gold",
+    "images": [
+      "img/tablets/apple-ipad-10-2-2020/gold/00.webp",
+      "img/tablets/apple-ipad-10-2-2020/gold/01.webp",
+      "img/tablets/apple-ipad-10-2-2020/gold/02.webp",
+      "img/tablets/apple-ipad-10-2-2020/gold/03.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.24.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.24.text.25",
+          "tablets.apple-ipad-pro-11-2021.description.24.text.26"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.27.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.27.text.28",
+          "tablets.apple-ipad-pro-11-2021.description.27.text.29"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.30.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.30.text.31",
+          "tablets.apple-ipad-pro-11-2021.description.30.text.32"
+        ]
+      }
+    ],
+    "screen": "10.2' Retina",
+    "resolution": "2160x1620",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "8MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-10-2-2020-32gb-silver",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-10-2-2020",
+    "name": "apple-ipad-10-2-2020-32gb-silver",
+    "capacityAvailable": ["32GB", "128GB"],
+    "capacity": "32GB",
+    "priceRegular": 329,
+    "priceDiscount": 299,
+    "colorsAvailable": ["gold", "silver", "spacegray"],
+    "color": "silver",
+    "images": [
+      "img/tablets/apple-ipad-10-2-2020/silver/00.webp",
+      "img/tablets/apple-ipad-10-2-2020/silver/01.webp",
+      "img/tablets/apple-ipad-10-2-2020/silver/02.webp",
+      "img/tablets/apple-ipad-10-2-2020/silver/03.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.24.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.24.text.25",
+          "tablets.apple-ipad-pro-11-2021.description.24.text.26"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.27.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.27.text.28",
+          "tablets.apple-ipad-pro-11-2021.description.27.text.29"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.30.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.30.text.31",
+          "tablets.apple-ipad-pro-11-2021.description.30.text.32"
+        ]
+      }
+    ],
+    "screen": "10.2' Retina",
+    "resolution": "2160x1620",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "8MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-10-2-2020-128gb-silver",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-10-2-2020",
+    "name": "apple-ipad-10-2-2020-128gb-silver",
+    "capacityAvailable": ["32GB", "128GB"],
+    "capacity": "128GB",
+    "priceRegular": 429,
+    "priceDiscount": 399,
+    "colorsAvailable": ["gold", "silver", "spacegray"],
+    "color": "silver",
+    "images": [
+      "img/tablets/apple-ipad-10-2-2020/silver/00.webp",
+      "img/tablets/apple-ipad-10-2-2020/silver/01.webp",
+      "img/tablets/apple-ipad-10-2-2020/silver/02.webp",
+      "img/tablets/apple-ipad-10-2-2020/silver/03.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.24.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.24.text.25",
+          "tablets.apple-ipad-pro-11-2021.description.24.text.26"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.27.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.27.text.28",
+          "tablets.apple-ipad-pro-11-2021.description.27.text.29"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.30.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.30.text.31",
+          "tablets.apple-ipad-pro-11-2021.description.30.text.32"
+        ]
+      }
+    ],
+    "screen": "10.2' Retina",
+    "resolution": "2160x1620",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "8MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-10-2-2020-128gb-spacegray",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-10-2-2020",
+    "name": "apple-ipad-10-2-2020-128gb-spacegray",
+    "capacityAvailable": ["32GB", "128GB"],
+    "capacity": "128GB",
+    "priceRegular": 429,
+    "priceDiscount": 399,
+    "colorsAvailable": ["gold", "silver", "spacegray"],
+    "color": "spacegray",
+    "images": [
+      "img/tablets/apple-ipad-10-2-2020/spacegray/00.webp",
+      "img/tablets/apple-ipad-10-2-2020/spacegray/01.webp",
+      "img/tablets/apple-ipad-10-2-2020/spacegray/02.webp",
+      "img/tablets/apple-ipad-10-2-2020/spacegray/03.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.24.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.24.text.25",
+          "tablets.apple-ipad-pro-11-2021.description.24.text.26"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.27.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.27.text.28",
+          "tablets.apple-ipad-pro-11-2021.description.27.text.29"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.30.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.30.text.31",
+          "tablets.apple-ipad-pro-11-2021.description.30.text.32"
+        ]
+      }
+    ],
+    "screen": "10.2' Retina",
+    "resolution": "2160x1620",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "8MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-10-2-2020-32gb-spacegray",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-10-2-2020",
+    "name": "apple-ipad-10-2-2020-32gb-spacegray",
+    "capacityAvailable": ["32GB", "128GB"],
+    "capacity": "32GB",
+    "priceRegular": 329,
+    "priceDiscount": 299,
+    "colorsAvailable": ["gold", "silver", "spacegray"],
+    "color": "spacegray",
+    "images": [
+      "img/tablets/apple-ipad-10-2-2020/spacegray/00.webp",
+      "img/tablets/apple-ipad-10-2-2020/spacegray/01.webp",
+      "img/tablets/apple-ipad-10-2-2020/spacegray/02.webp",
+      "img/tablets/apple-ipad-10-2-2020/spacegray/03.webp"
+    ],
+"description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.24.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.24.text.25",
+          "tablets.apple-ipad-pro-11-2021.description.24.text.26"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.27.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.27.text.28",
+          "tablets.apple-ipad-pro-11-2021.description.27.text.29"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.30.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.30.text.31",
+          "tablets.apple-ipad-pro-11-2021.description.30.text.32"
+        ]
+      }
+    ],
+    "screen": "10.2' Retina",
+    "resolution": "2160x1620",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "8MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-mini-5th-gen-256gb-silver",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-mini-5th-gen",
+    "name": "apple-ipad-mini-5th-gen-256gb-silver",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 549,
+    "priceDiscount": 499,
+    "colorsAvailable": ["silver", "spacegray", "gold"],
+    "color": "silver",
+    "images": [
+      "img/tablets/apple-ipad-mini-5th-gen/silver/00.webp",
+      "img/tablets/apple-ipad-mini-5th-gen/silver/01.webp"
+    ],
+  "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.33.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.33.text.34",
+          "tablets.apple-ipad-pro-11-2021.description.33.text.35"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.36.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.36.text.37",
+          "tablets.apple-ipad-pro-11-2021.description.36.text.38"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.39.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.39.text.40",
+          "tablets.apple-ipad-pro-11-2021.description.39.text.41"
+        ]
+      }
+    ],
+    "screen": "7.9' Retina",
+    "resolution": "2048x1536",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "8MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-mini-5th-gen-64gb-silver",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-mini-5th-gen",
+    "name": "apple-ipad-mini-5th-gen-64gb-silver",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 549,
+    "priceDiscount": 499,
+    "colorsAvailable": ["silver", "spacegray", "gold"],
+    "color": "silver",
+    "images": [
+      "img/tablets/apple-ipad-mini-5th-gen/silver/00.webp",
+      "img/tablets/apple-ipad-mini-5th-gen/silver/01.webp"
+    ],
+ "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.33.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.33.text.34",
+          "tablets.apple-ipad-pro-11-2021.description.33.text.35"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.36.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.36.text.37",
+          "tablets.apple-ipad-pro-11-2021.description.36.text.38"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.39.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.39.text.40",
+          "tablets.apple-ipad-pro-11-2021.description.39.text.41"
+        ]
+      }
+    ],
+    "screen": "7.9' Retina",
+    "resolution": "2048x1536",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "8MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-mini-5th-gen-64gb-spacegray",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-mini-5th-gen",
+    "name": "apple-ipad-mini-5th-gen-64gb-spacegray",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 549,
+    "priceDiscount": 499,
+    "colorsAvailable": ["silver", "spacegray", "gold"],
+    "color": "spacegray",
+    "images": [
+      "img/tablets/apple-ipad-mini-5th-gen/spacegray/00.webp",
+      "img/tablets/apple-ipad-mini-5th-gen/spacegray/01.webp"
+    ],
+ "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.33.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.33.text.34",
+          "tablets.apple-ipad-pro-11-2021.description.33.text.35"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.36.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.36.text.37",
+          "tablets.apple-ipad-pro-11-2021.description.36.text.38"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.39.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.39.text.40",
+          "tablets.apple-ipad-pro-11-2021.description.39.text.41"
+        ]
+      }
+    ],
+    "screen": "7.9' Retina",
+    "resolution": "2048x1536",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "8MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-mini-5th-gen-256gb-spacegray",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-mini-5th-gen",
+    "name": "apple-ipad-mini-5th-gen-256gb-spacegray",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 549,
+    "priceDiscount": 499,
+    "colorsAvailable": ["silver", "spacegray", "gold"],
+    "color": "spacegray",
+    "images": [
+      "img/tablets/apple-ipad-mini-5th-gen/spacegray/00.webp",
+      "img/tablets/apple-ipad-mini-5th-gen/spacegray/01.webp"
+    ],
+ "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.33.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.33.text.34",
+          "tablets.apple-ipad-pro-11-2021.description.33.text.35"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.36.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.36.text.37",
+          "tablets.apple-ipad-pro-11-2021.description.36.text.38"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.39.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.39.text.40",
+          "tablets.apple-ipad-pro-11-2021.description.39.text.41"
+        ]
+      }
+    ],
+    "screen": "7.9' Retina",
+    "resolution": "2048x1536",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "8MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-mini-5th-gen-256gb-gold",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-mini-5th-gen",
+    "name": "apple-ipad-mini-5th-gen-256gb-gold",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 549,
+    "priceDiscount": 499,
+    "colorsAvailable": ["silver", "spacegray", "gold"],
+    "color": "gold",
+    "images": [
+      "img/tablets/apple-ipad-mini-5th-gen/gold/00.webp",
+      "img/tablets/apple-ipad-mini-5th-gen/gold/01.webp"
+    ],
+ "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.33.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.33.text.34",
+          "tablets.apple-ipad-pro-11-2021.description.33.text.35"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.36.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.36.text.37",
+          "tablets.apple-ipad-pro-11-2021.description.36.text.38"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.39.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.39.text.40",
+          "tablets.apple-ipad-pro-11-2021.description.39.text.41"
+        ]
+      }
+    ],
+    "screen": "7.9' Retina",
+    "resolution": "2048x1536",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "8MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  },
+  {
+    "id": "apple-ipad-mini-5th-gen-64gb-gold",
+    "category": "tablets",
+    "namespaceId": "apple-ipad-mini-5th-gen",
+    "name": "apple-ipad-mini-5th-gen-64gb-gold",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 549,
+    "priceDiscount": 499,
+    "colorsAvailable": ["silver", "spacegray", "gold"],
+    "color": "gold",
+    "images": [
+      "img/tablets/apple-ipad-mini-5th-gen/gold/00.webp",
+      "img/tablets/apple-ipad-mini-5th-gen/gold/01.webp"
+    ],
+ "description": [
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.33.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.33.text.34",
+          "tablets.apple-ipad-pro-11-2021.description.33.text.35"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.36.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.36.text.37",
+          "tablets.apple-ipad-pro-11-2021.description.36.text.38"
+        ]
+      },
+      {
+        "title": "tablets.apple-ipad-pro-11-2021.description.39.title",
+        "text": [
+          "tablets.apple-ipad-pro-11-2021.description.39.text.40",
+          "tablets.apple-ipad-pro-11-2021.description.39.text.41"
+        ]
+      }
+    ],
+    "screen": "7.9' Retina",
+    "resolution": "2048x1536",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "8MP",
+    "zoom": "Digital zoom up to 5x",
+    "cell": ["Not applicable"]
+  }
+]
