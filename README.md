@@ -54,3 +54,21 @@ The following advanced features have been successfully implemented in this proje
   * **Color Theme Switching:** The application supports both light and dark color themes, allowing users to customize the interface to their preference. A theme-switcher is available in the header.
   * **Skeleton Loaders:** To enhance the user experience, skeleton loaders are used during data fetching. They visually occupy the space where content will appear, making the loading process feel smoother and more predictable.
   * **Multi-language Support:** The application's interface has been adapted to support multiple languages, making it accessible to a wider audience.
+  * 
+### **How to Run the Project:**
+To run this project locally, follow these steps:
+**Viewing on GitHub Pages**
+The project is hosted on GitHub Pages and can be accessed directly at the following URL:
+https:/DyvakOlexandr/e.github.io/react_phone-catalog-Final-Review/
+   1. **Clone the repository:**
+   git clone https://github.com/DyvakOlexandr/react_phone-catalog-Final-Review.git
+   cd react_phone-catalog-Final-Review
+   2.**Install dependencies:**
+     npm install
+     # or
+     yarn install
+  3. **Start the development server:**
+     The application will launch in development mode.
+     npm start
+     # or
+    yarn start
